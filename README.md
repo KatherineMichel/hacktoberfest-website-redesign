@@ -1,2 +1,2 @@
-# hacktoberfest-website-redesign
-Hacktoberfest Website Redesign
+# Hacktoberfest Website Redesign
+
