@@ -6,7 +6,7 @@
 
 ## Website As Is
 
-Single Page App, made using Golang, deployed via Docker and Heroku
+[Single Page Application](https://en.wikipedia.org/wiki/Single-page_application), made using [Golang](https://golang.org), deployed via [Docker](https://www.docker.com) and [Heroku](https://www.heroku.com)
 
 ![](hacktoberfest-website.png)
 
