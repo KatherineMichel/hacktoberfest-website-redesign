@@ -6,4 +6,5 @@
 
 ## Website As Is
 
+Single Page App, made using Golang, deployed via Docker and Heroku
 
