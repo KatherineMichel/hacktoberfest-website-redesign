@@ -10,3 +10,8 @@
 
 ![](hacktoberfest-website.png)
 
+## Example Designs
+
+### Example 1
+
+![](octocat-carved-pumpkin.jpg)
