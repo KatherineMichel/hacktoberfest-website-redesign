@@ -41,10 +41,6 @@ Responsive Design (See also Media Queries Examples)
 
 Device Mockups and Specifications
 
-Responsive Design Examples
-* [Media Queries Examples](http://mediaqueri.es)
-* [Responsive Design Examples](https://responsivedesign.is/examples)
-
 Design Teardowns and Style Tiles
 * [Product Teardown Wikipedia](https://en.wikipedia.org/wiki/Product_teardown)
 * [Style Tiles](http://styletil.es) and [Style Tiles Examples](http://styletil.es/#examples)
@@ -98,11 +94,7 @@ Full Page Screen Shots
 * [Open Screenshot](https://chrome.google.com/webstore/detail/open-screenshot/akgpcdalpfphjmfifkmfbpdmgdmeeaeo/related?hl=en)
 
 Code Editor: Brackets (a.k.a. Edge Code)
-* [Edge Code (commercial form of Brackets)](https://www.adobe.com/products/edge-code.html)
 * [Brackets](http://brackets.io)
-* [How to Use Brackets GitHub](https://github.com/adobe/brackets/wiki/How-to-Use-Brackets)
-* [Brackets Shortcuts GitHub](https://github.com/adobe/brackets/wiki/Brackets-Shortcuts)
-* [Brackets Extension Registry](https://brackets-registry.aboutweb.com)
 
 Adobe (See also Edge Code and Brackets)
 * [Adobe Creative Cloud](http://www.adobe.com/creativecloud) and [Adobe Creative Cloud Blog](https://blogs.adobe.com/creativecloud)
@@ -225,7 +217,6 @@ http://jonibologna.com/content/images/flexboxsheet.pdf
 -->
 
 Responsiveness- and Media Queries
-* [Bootstrap CSS](http://getbootstrap.com/css)
 * [Mozilla Developer Media Queries](https://developer.mozilla.org/en-US/docs/Web/Guide/CSS/Media_queries) and [Mozilla Developer Using Media Queries](https://developer.mozilla.org/en-US/docs/Web/CSS/Media_Queries/Using_media_queries)
 * [Google Developers Responsive Fundamentals- Use of Media Queries](https://developers.google.com/web/fundamentals/design-and-ui/responsive/fundamentals/use-media-queries?hl=en)
 * [Google Developers Responsive Fundamentals- How to Choose Breakpoints](https://developers.google.com/web/fundamentals/design-and-ui/responsive/fundamentals/how-to-choose-breakpoints?hl=en)
@@ -243,9 +234,6 @@ CSS Reset (HTML5 Compatibility Check/Normalization)
 * [Eric A. Meyer CSS Reset](http://meyerweb.com/eric/tools/css/reset)
 * [Normalize GitHub](https://github.com/necolas/normalize.css)  
 * [Modernizr](http://modernizr.com) and [Modernizr GitHub](https://github.com/Modernizr/Modernizr)  
-* [HTML5shiv GitHub](https://github.com/aFarkas/html5shiv)  
-* [Shim GitHub](https://github.com/marstall/shim)  
-* [Yahoo YUI CSS Reset](https://yuilibrary.com/yui/docs/cssreset)
 
 <!--
 https://modernizr.com/download?setclasses
