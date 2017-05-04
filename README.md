@@ -5,9 +5,11 @@
 * [devICT Hacktoberfest GitHub](https://github.com/devict/hacktoberfest)
 * [Local Server](http://localhost:8080)
 
-## Website As Is
+## About the Website
 
 [Single Page Application](https://en.wikipedia.org/wiki/Single-page_application), made using [Golang](https://golang.org), deployed via [Docker](https://www.docker.com) and [Heroku](https://www.heroku.com)
+
+## Website Design As Is
 
 ![](hacktoberfest-website.png)
 
