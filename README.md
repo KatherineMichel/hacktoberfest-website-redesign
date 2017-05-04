@@ -23,3 +23,452 @@ Hero (Used with permission from [Nick Quaranto](http://quaran.to/blog/2008/10/20
 ![](octocat-carved-pumpkin.jpg)
 
 ### Example 2: Sophisticated
+
+
+
+
+<!--
+https://bradfrost.github.io/this-is-responsive/patterns.html
+https://bradfrost.github.io/this-is-responsive/resources.html
+https://responsivedesign.is/patterns
+-->
+
+Progressive Enhancement
+* [Progressive Enhancement Wikipedia](https://en.wikipedia.org/wiki/Progressive_enhancement)
+
+Responsive Design (See also Media Queries Examples)
+* [Ethan Marcotte: Responsive Web Design](http://alistapart.com/article/responsive-web-design) and [Responsive Web Design Wikipedia](http://en.wikipedia.org/wiki/Responsive_web_design)
+
+Device Mockups and Specifications
+
+Responsive Design Examples
+* [Media Queries Examples](http://mediaqueri.es)
+* [Responsive Design Examples](https://responsivedesign.is/examples)
+
+Design Teardowns and Style Tiles
+* [Product Teardown Wikipedia](https://en.wikipedia.org/wiki/Product_teardown)
+* [Style Tiles](http://styletil.es) and [Style Tiles Examples](http://styletil.es/#examples)
+* [Mood Board Wikipedia](https://en.wikipedia.org/wiki/Mood_board)
+
+Sprints
+
+Protyping
+* [Keynote](https://www.apple.com/mac/keynote)
+* [Keynotopia](http://keynotopia.com)
+
+<!--
+Prototyping Software- Keynotopia
+* [Keynotopia Twitter](https://twitter.com/keynotopia), and [Keynotopia Super Bundle (including Functionality List)](http://keynotopia.com/keynotopia-super-bundle)  
+* [Fake It Make It: How to Make an App Prototype in 3 Hours by Amir Khella (featuring Keynotopia)](http://www.amazon.com/dp/B00X8U2BCY) and [Fake It Make It](http://keynotopia.com/fakeitmakeit)
+* [Keynotopia FontAwesome](http://keynotopia.com/fontawesome-icons-for-keynote-and-powerpoint)
+
+Prototyping Software- Keynotopia- Tutorials
+* [How to Use Keynote Master Slides in Apple Keynote](http://keynotopia.com/how-to-use-keynote-master-slides-in-apple-keynote)
+
+Prototyping Software- Keynote- Docs
+* [Keynote for Mac: Keynote for Mac keyboard shortcuts](https://support.apple.com/kb/PH24313?locale=en_US&viewlocale=en_US)
+* [Keynote for Mac: Add and edit master slides](https://support.apple.com/kb/PH16978?locale=en_US)
+* [Keynote for Mac: Animate objects](https://support.apple.com/kb/ph16960?locale=en_US)
+
+http://keynotopia.com/guides-ppt/?mc_cid=0b813fc8c6&mc_eid=2008dfea31
+
+http://keynotopia.com/#how
+http://keynotopia.com/guides
+http://keynotopia.com/bootstrap
+http://keynotopia.com/keynote-mockups-templates
+http://keynotopia.com/web-prototyping
+
+http://keynotopia.com/tutorials
+http://keynotopia.com/keynote-and-powerpoint-mockup-templates
+http://keynotopia.com/how-to-design-a-web-or-mobile-app-in-7-steps
+http://keynotopia.com/how-to-create-ui-animations-with-keynote
+http://keynotopia.com/how-to-design-and-prototype-user-interfaces-using-keynote-on-icloud-com
+
+https://support.apple.com/en-us/HT202220
+
+https://help.apple.com/keynote/mac
+https://support.apple.com/kb/PH24334?locale=en_US&viewlocale=en_US
+
+https://www.youtube.com/watch?v=HPjwv056FbA&index=1&list=PLchknTmv2KcsHjMvWtfOuZT4kIZUbVWcX
+-->
+
+Full Page Screen Shots
+* [Capture Webpage Screenshot Entirely](https://chrome.google.com/webstore/detail/capture-webpage-screensho/mcbpblocgmgfnpjjppndjkmgjaogfceg/related)
+* [Full Page Screen Capture](https://chrome.google.com/webstore/detail/full-page-screen-capture/fdpohaocaechififmbbbbbknoalclacl?hl=en-US)
+* [Open Screenshot](https://chrome.google.com/webstore/detail/open-screenshot/akgpcdalpfphjmfifkmfbpdmgdmeeaeo/related?hl=en)
+
+Code Editor: Brackets (a.k.a. Edge Code)
+* [Edge Code (commercial form of Brackets)](https://www.adobe.com/products/edge-code.html)
+* [Brackets](http://brackets.io)
+* [How to Use Brackets GitHub](https://github.com/adobe/brackets/wiki/How-to-Use-Brackets)
+* [Brackets Shortcuts GitHub](https://github.com/adobe/brackets/wiki/Brackets-Shortcuts)
+* [Brackets Extension Registry](https://brackets-registry.aboutweb.com)
+
+Adobe (See also Edge Code and Brackets)
+* [Adobe Creative Cloud](http://www.adobe.com/creativecloud) and [Adobe Creative Cloud Blog](https://blogs.adobe.com/creativecloud)
+* [Adobe Lightroom](https://lightroom.adobe.com)
+* [Adobe Experience Design CC](https://www.adobe.com/products/experience-design.html)
+* [Adobe Photoshop](http://www.adobe.com/products/photoshop-lightroom.html)
+* [Adobe Color Wheel](https://color.adobe.com/create/color-wheel)
+* [Adobe Kuler Color Themes](https://helpx.adobe.com/illustrator/using/create-color-themes-kuler.html)
+* [Adobe Edge Web Fonts](https://edgewebfonts.adobe.com)
+* [Adobe Spark](https://spark.adobe.com)
+
+<!--
+https://github.com/adobe
+https://github.com/adobe-fonts
+
+https://creative.adobe.com/plans
+
+WSWYG
+http://www.adobe.com/products/dreamweaver.html
+ 
+https://offers.adobe.com/en/na/marketing/landings/_338365_finding_the_perfect_image.html
+
+https://blog.typekit.com/2017/05/02/hundreds-more-fonts-in-the-library-and-marketplace-1500-added-for-sync/
+https://typekit.com/fonts
+https://helpx.adobe.com/typekit/system-subscription-requirements.html
+http://www.adobe.com/creativecloud/catalog/desktop.html
+http://www.adobe.com/creativecloud/desktop-app.html
+
+Illustration (See also below), Serif DrawPlus, Adobe Illustrator
+https://www.canva.com
+http://www.adobe.com/products/fireworks.html
+http://www.adobe.com/products/illustrator.html
+https://affinity.serif.com/en-us/designer
+-->
+
+Layout
+* [Multi-Device Layout Pattern](http://www.lukew.com/ff/entry.asp?1514)
+
+HTML and CSS Flow
+* [HTML Outline](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/Using_HTML_sections_and_outlines) (HTML5 versus HTML4)
+* Document Flow
+* [Semantic HTML](https://en.wikipedia.org/wiki/Semantic_HTML)
+* Selector Grouping
+* [Cascade](https://developer.mozilla.org/en-US/docs/Web/CSS/Cascade)
+
+Document Outline Addons
+
+<!--
+HTML5 Outliner
+https://chrome.google.com/webstore/detail/html5-outliner/afoibpobokebhgfnknfndkgemglggomo?hl=en
+https://addons.mozilla.org/en-US/firefox/addon/html5_outliner/
+-->
+
+Semantic Site Audit
+
+Hosted Libraries (See also: Google Fonts)
+* [Google Libraries](https://developers.google.com/speed/libraries)
+* [MaxCDN Bootstrap](http://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css)
+
+Font Stack
+* [Web Safe Fonts](https://en.wikipedia.org/wiki/Web_typography#Web-safe_fonts)
+* [Fallback Font Wikipedia](https://en.wikipedia.org/wiki/Fallback_font)
+
+Fonts (See also Google Apps)
+* [Google Fonts](https://fonts.google.com) and [Google Fonts List GitHub](https://github.com/google/fonts/tree/master/ofl)
+* [Font Squirrel (Recommended by Susan Simkins)](https://www.fontsquirrel.com)
+* [dafont (Noted by Susan Simkins, less good)](http://www.dafont.com)
+* [Font Famous](http://fontfamous.com)
+* [Fontscape](http://www.fontscape.com)
+
+<!--
+Typical base is 16px
+https://medium.freecodecamp.com/how-to-choose-and-pair-typefaces-98fee945d13c#.c9d6lv6lj
+
+Em
+http://www.w3schools.com/tags/tag_em.asp
+https://developer.mozilla.org/en-US/docs/Web/HTML/Element/em
+https://en.wikipedia.org/wiki/Em_(typography)
+
+@font-face
+https://www.w3schools.com/cssref/css3_pr_font-face_rule.asp
+https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face
+http://www.font-face.com
+
+https://en.wikipedia.org/wiki/X-height
+Line height
+https://en.wikipedia.org/wiki/Leading
+https://en.wikipedia.org/wiki/Kerning
+Tracking text
+https://en.wikipedia.org/wiki/Letter-spacing
+https://en.wikipedia.org/wiki/Italic_type
+-->
+
+Typographic Scale and Vertical Rhythm
+* [Modular Scale](http://www.modularscale.com)
+* [Vertical Rhythm](https://drewish.com/tools/vertical-rhythm)
+
+Photo Editing (See also Adobe)
+* [Gimp](http://www.gimp.org), [Gimp Docs](http://docs.gimp.org), and [Gimp Plugin Registry](http://registry.gimp.org/glossary/a)
+* [Inkscape](http://www.inkscape.org/en) 
+
+<!--
+https://www.xquartz.org
+https://inkscape.org/en/download/mac-os
+-->
+
+Free Photos
+
+<!--
+http://svgpocketguide.com/book
+https://github.com/jonitrythall/svgpocketguide/blob/master/svgpocketguide.md
+https://en.wikipedia.org/wiki/Scalable_Vector_Graphics
+https://www.w3schools.com/graphics/svg_intro.asp
+https://www.w3schools.com/html/html5_svg.asp
+https://developer.mozilla.org/en-US/docs/Web/SVG
+https://www.w3.org/Graphics/SVG
+
+http://jonibologna.com/flexbox-cheatsheet
+http://jonibologna.com/content/images/flexboxsheet.pdf
+-->
+
+Responsiveness- and Media Queries
+* [Bootstrap CSS](http://getbootstrap.com/css)
+* [Mozilla Developer Media Queries](https://developer.mozilla.org/en-US/docs/Web/Guide/CSS/Media_queries) and [Mozilla Developer Using Media Queries](https://developer.mozilla.org/en-US/docs/Web/CSS/Media_Queries/Using_media_queries)
+* [Google Developers Responsive Fundamentals- Use of Media Queries](https://developers.google.com/web/fundamentals/design-and-ui/responsive/fundamentals/use-media-queries?hl=en)
+* [Google Developers Responsive Fundamentals- How to Choose Breakpoints](https://developers.google.com/web/fundamentals/design-and-ui/responsive/fundamentals/how-to-choose-breakpoints?hl=en)
+
+<!--
+https://developers.google.com/web/fundamentals/design-and-ui/responsive/patterns
+https://v4-alpha.getbootstrap.com/layout/overview/#responsive-breakpoints
+-->
+
+Google 
+* [Google Web Fundamentals](https://developers.google.com/web/fundamentals), [Google Web Fundamentals: GitHub](https://github.com/google/WebFundamentals), and [Google Web Fundamentals Research Study](https://developers.google.com/web/fundamentals/principles/research-study)  
+* [Google Web Starter Kit](https://developers.google.com/web/starter-kit), [Google Web Starter Kit Styleguide](http://google.github.io/web-starter-kit/hello-world/styleguide.html), and [Google Web Starter Kit GitHub](https://github.com/google/web-starter-kit)  
+
+CSS Reset (HTML5 Compatibility Check/Normalization)
+* [Eric A. Meyer CSS Reset](http://meyerweb.com/eric/tools/css/reset)
+* [Normalize GitHub](https://github.com/necolas/normalize.css)  
+* [Modernizr](http://modernizr.com) and [Modernizr GitHub](https://github.com/Modernizr/Modernizr)  
+* [HTML5shiv GitHub](https://github.com/aFarkas/html5shiv)  
+* [Shim GitHub](https://github.com/marstall/shim)  
+* [Yahoo YUI CSS Reset](https://yuilibrary.com/yui/docs/cssreset)
+
+<!--
+https://modernizr.com/download?setclasses
+-->
+
+<!--
+https://developer.mozilla.org/en-US/docs/Web/CSS/Cascade
+https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout
+https://developer.mozilla.org/en-US/docs/Web/CSS/grid
+https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/Using_HTML_sections_and_outlines
+
+HTML Elements/Sections
+https://developer.mozilla.org/en-US/docs/Web/HTML/Element
+https://developer.mozilla.org/en-US/docs/Web/HTML/Element/section
+http://blog.teamtreehouse.com/use-html5-sectioning-elements
+https://developer.mozilla.org/en-US/docs/Web/HTML/Inline_elements
+
+* [Mozilla Developer HTML Elements](https://developer.mozilla.org/en-US/docs/web/html/element)
+
+https://developer.mozilla.org/en-US/docs/Web/CSS/overflow
+https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Properties_Reference
+https://developer.mozilla.org/en-US/docs/Glossary/Vendor_Prefix
+https://developer.mozilla.org/en-US/docs/Web/CSS/Specificity
+https://developer.mozilla.org/en-US/docs/Web/CSS/Shorthand_properties
+https://developer.mozilla.org/en-US/docs/Web/CSS/z-index
+https://developer.mozilla.org/en-US/docs/Web/CSS/position
+https://developer.mozilla.org/en-US/docs/Web/CSS/@import
+https://teamtreehouse.com/library/css-basics/getting-started-with-css/importing-style-sheets-with-import
+
+https://developer.mozilla.org/en-US/docs/Web/CSS/Universal_selectors
+https://developer.mozilla.org/en-US/docs/Web/CSS/Pseudo-classes
+https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Using_CSS_flexible_boxes
+
+https://developer.mozilla.org/en-US/docs/Learn/CSS/Styling_text/Fundamentals
+-->
+
+<!--
+New
+https://www.w3.org/TR/html4/index/elements.html
+https://www.w3.org/TR/html5/
+
+https://www.w3schools.com/cssref/css_inherit.asp
+https://developer.mozilla.org/en-US/docs/Learn/CSS/Introduction_to_CSS/Cascade_and_inheritance
+https://www.w3.org/wiki/Inheritance_and_cascade
+-->
+
+Mozilla HTML5 and CSS3- Info and Tutorials
+* [Mozilla HTML5](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
+* [Mozilla CSS3](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS3)
+
+Mozilla HTML and CSS Tutorials
+* [Mozilla HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
+* [Mozilla HTML Guide](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML)
+* [Mozilla CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
+* [Mozilla CSS Guide](https://developer.mozilla.org/en-US/docs/Web/Guide/CSS)
+* [Mozilla CSS Reference](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)
+
+HTML5 and CSS3 Cheat Sheets
+* [HTML5- The Web platform: Browser technologies](https://platform.html5.org)
+* [HTML5 Please](http://html5please.com)
+* [Can I Use](http://caniuse.com) and [Can I Use GitHub](https://github.com/Fyrd/caniuse)
+
+WHATWG (Better Reference than W3C)
+* [WHATWG (Web Hypertext Application Technology Working Group)](https://whatwg.org), [WHATWG Developers](https://developers.whatwg.org), and [WHATWG (Web Hypertext Application Technology Working Group) GitHub](https://github.com/whatwg)
+
+W3C (The World Wide Web Consortium) Standards
+* [W3C Standards Table of Contents](https://www.w3.org/standards)
+* [W3C HTML](https://www.w3.org/html)
+* [W3C HTML5](https://www.w3.org/TR/html5)
+* [W3C Developer Tools](http://w3c.github.io/developers/tools)
+* [W3C GitHub](https://github.com/w3c) 
+
+Mozilla Documentation
+* [Mozilla Developer](https://developer.mozilla.org/en-US), and [Mozilla Developer Docs](https://developer.mozilla.org/en-US/docs/Web) 
+
+Mozilla JavaScript Tutorials
+* [Mozilla JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  
+* [Mozilla JavaScript Guide](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide) 
+* [Mozilla JavaScript Reference](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference)  
+* [Mozilla Web API](https://developer.mozilla.org/en-US/docs/Web/API)
+* [A Re-introduction to JS](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript)
+
+<!--
+* [Mozilla Document Object Model Reference](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model)
+-->
+
+jQuery
+* [jQuery](https://jquery.com) (version impacts browser support)
+* [jQuery API](http://api.jquery.com)
+* [jQuery Learning Center](http://learn.jquery.com)
+
+GitHub HTML and CSS Styleguides
+* [GitHub CSS Styleguide](http://primercss.io) 
+* [MDO Code Guide](http://codeguide.co) and [MDO Code Guide GitHub](https://github.com/mdo/code-guide) 
+
+Google Styleguides
+* [Google Styleguides GitHub](https://github.com/google/styleguide)
+* [Google HTML and CSS Styleguide](https://google.github.io/styleguide/htmlcssguide.html)
+* [Google JavaScript Styleguide](https://google.github.io/styleguide/javascriptguide.xml)
+
+JavaScript Styleguide  
+* [Airbnb JavaScript Styleguide GitHub](https://github.com/airbnb/javascript) 
+
+Accessibility
+* [WebAim](http://webaim.org)
+
+Validation
+* [W3C Nu HTML Validator](https://validator.w3.org/nu)
+* Do Cross Browser Testing
+
+Lints
+* [CSS LINT](http://csslint.net)
+* [Bootstrap Lint GitHub](https://github.com/twbs/bootlint)
+* [Sass Lint](https://www.npmjs.com/package/sass-lint)
+
+Google Developers- General and Web
+* [Google Developers](https://developers.google.com) 
+* [Google Developer Web](https://developers.google.com/web)
+
+Google Developers- Google Chrome Doc
+* [Google Chrome Home](https://developers.google.com/chrome)
+* [Google Chrome DevTool Docs](https://developers.google.com/web/tools/chrome-devtools)
+* [Google Chrome DevTools (Old)](https://developer.chrome.com/devtools)
+
+Browser Statistics
+
+Safari Developer Tools
+* [Safari Web Inspector](https://developer.apple.com/library/safari/documentation/AppleApplications/Conceptual/Safari_Developer_Guide/Introduction/Introduction.html)
+
+Mozilla Developer Tools
+* [Firefox Developer Tools](https://developer.mozilla.org/en-US/docs/Tools) and [Firebug](http://getfirebug.com)
+* [Firebug Chrome](http://getfirebug.com/releases/lite/chrome) and [Firebug Chrome Store](https://chrome.google.com/webstore/detail/firebug-lite-for-google-c/bmagokdooijbeehmkpknfglimnifench)
+
+Microsoft Developer Tools
+* [Microsoft Edge Developer Documentation](https://github.com/MicrosoftDocs/edge-developer)
+* ["Meet the Microsoft Edge F12 Dev Tools"](https://docs.microsoft.com/en-us/microsoft-edge/f12-devtools-guide)
+* [F12 Developer Tool Keyboard Shortcuts](https://msdn.microsoft.com/en-us/library/dn322041(v=vs.85).aspx)
+
+
+
+
+Graph and Schema- General (See also Facebook Open Graph and W3C Semantic Extractor)
+* [Open Graph Protocol Schema](http://ogp.me) 
+* [Schema Org](http://schema.org), [Schema Org Getting Started](http://schema.org/docs/gs.html), and [Schema Org Wikipedia](http://en.wikipedia.org/wiki/Schema.org) 
+* [Schema Creator](http://schema-creator.org)
+
+Open Search
+* [Open Search](http://www.opensearch.org/Home)
+
+Microformats
+* [Microformats](http://microformats.org)
+
+<!--
+Speed and Performance
+* [Google GWT (including Speedtracer)](http://www.gwtproject.org)
+* [Google PageSpeed (Score of 90+)](https://developers.google.com/speed/pagespeed)
+* [Netflix Fast](https://fast.com)
+* [Yahoo YSlow score of 85+](http://yslow.org)
+
+https://www.webpagetest.org/
+https://github.com/WPO-Foundation/webpagetest
+
+W3 Validators
+* [W3C HTML Validator](http://validator.w3.org)
+* [W3C CSS Validator](http://jigsaw.w3.org/css-validator)
+* [W3C Semantic Extractor](http://www.w3.org/2003/12/semantic-extractor.html)
+* [W3C Link Checker](https://validator.w3.org/checklink)
+<!--* [iWebTool Broken Link Checker](http://iwebtool.com/broken_link_checker)-->
+<!--* [W3C Mobile Validator](http://validator.w3.org/mobile)
+* [W3C i18n Checker](http://validator.w3.org/i18n-checker)
+
+Accessibility
+* [WebAIM Checklist](http://webaim.org/resources/evalquickref/#checklist)
+* [WebAIM Contrast Checker](http://webaim.org/resources/contrastchecker)
+* [Check My Colours (Color Contrast)](http://www.checkmycolours.com)
+* [IDI Web Accessibility Checker](http://achecker.ca/checker/index.php) 
+* [NV Access (Test Using a Screen Reader)](http://www.nvaccess.org)
+
+Microsoft Inclusion Approach
+* [Microsoft Inclusive Toolkit Manual and Activities](https://www.microsoft.com/en-us/Design/inclusive)
+
+<!--
+https://blogs.msdn.microsoft.com/accessibility/2017/03/01/a-look-back-and-a-look-ahead-at-accessibility-at-microsoft/
+
+https://ft-interactive.github.io/accessibility
+https://accessibility.blog.gov.uk/2016/09/02/dos-and-donts-on-designing-for-accessibility
+
+https://en.wikipedia.org/wiki/Assistive_technology
+https://en.wikipedia.org/wiki/Web_Content_Accessibility_Guidelines
+https://www.ada.gov
+
+https://en.wikipedia.org/wiki/Screen_reader
+http://www.freedomscientific.com/Products/Blindness/JAWS
+http://webaim.org/techniques/screenreader/
+Screen Reader Outline
+http://www.chromevox.com/
+https://en.wikipedia.org/wiki/WAI-ARIA
+
+
+http://quirksmode.org/css/contents.html
+https://en.wikibooks.org/wiki/Internet_Explorer/Adding_User_Styles
+http://www.iecss.com/
+
+https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Cross_browser_testing
+
+Accessibility in Internet Explorer 11
+https://www.microsoft.com/enable/products/ie11/
+https://en.wikipedia.org/wiki/Internet_Explorer_8
+
+Compat Inspector
+http://ie.microsoft.com/testdrive/HTML5
+modern.IE
+http://www.modern.ie/report
+
+https://developer.microsoft.com/en-us/microsoft-edge
+https://developer.microsoft.com/en-us/microsoft-edge/testdrive/demos/compatinspector
+https://developer.microsoft.com/en-us/microsoft-edge/tools/staticscan
+
+Photosensitive Epilepsy
+* [Photosensitive Epilepsy Wikipedia](https://en.wikipedia.org/wiki/Photosensitive_epilepsy)
+
+seizure disorders, migraines, or ADD/ADHD
+https://www.epilepsy.org.uk/info/photosensitive-epilepsy/web-design
+http://webaim.org/articles/seizure/
+https://www.w3.org/TR/UNDERSTANDING-WCAG20/seizure.html
+-->
