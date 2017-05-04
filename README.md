@@ -49,7 +49,6 @@ Design Teardowns and Style Tiles
 Sprints
 
 Protyping
-* [Keynote](https://www.apple.com/mac/keynote)
 * [Keynotopia](http://keynotopia.com)
 
 <!--
@@ -89,8 +88,6 @@ https://www.youtube.com/watch?v=HPjwv056FbA&index=1&list=PLchknTmv2KcsHjMvWtfOuZ
 -->
 
 Full Page Screen Shots
-* [Capture Webpage Screenshot Entirely](https://chrome.google.com/webstore/detail/capture-webpage-screensho/mcbpblocgmgfnpjjppndjkmgjaogfceg/related)
-* [Full Page Screen Capture](https://chrome.google.com/webstore/detail/full-page-screen-capture/fdpohaocaechififmbbbbbknoalclacl?hl=en-US)
 * [Open Screenshot](https://chrome.google.com/webstore/detail/open-screenshot/akgpcdalpfphjmfifkmfbpdmgdmeeaeo/related?hl=en)
 
 Code Editor: Brackets (a.k.a. Edge Code)
