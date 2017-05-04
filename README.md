@@ -11,6 +11,8 @@
 
 ![](hacktoberfest-website.png)
 
+## Resources Used for Redesign
+
 ## Example Designs
 
 ### Example 1: Fun
