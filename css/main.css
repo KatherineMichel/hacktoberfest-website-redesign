@@ -1,1 +1,281 @@
+/*
+Title: " "
+Theme URI: https://
+Design: Katherine Michel
+Development: Katherine Michel
+Web Site: http://katherinemichel.github.io
+Description: 
+Version: 
+Copyright: Some rights reserved
+License: 
+License URI: 
+Additional Attribution: 
+Date: 
+*/
 
+/**
+ * Table of Contents
+ *
+ * 1.0 - Reset
+ * 2.0 - Genericons
+ * 3.0 - Typography
+ * 4.0 - Elements
+ * 5.0 - Forms
+ * 6.0 - Navigations
+ *   6.1 - Links
+ *   6.2 - Menus
+ * 7.0 - Accessibility
+ * 8.0 - Alignments
+ * 9.0 - Clearings
+ * 10.0 - Header
+ * 11.0 - Widgets
+ * 12.0 - Content
+ *    12.1 - Posts and pages
+ *    12.2 - Post Formats
+ *    12.3 - Comments
+ * 13.0 - Footer
+ * 14.0 - Media
+ *    14.1 - Captions
+ *    14.2 - Galleries
+ * 15.0 - Multisite
+ * 16.0 - Media Queries
+ *    16.1 - Mobile Large
+ *    16.2 - Tablet Small
+ *    16.3 - Tablet Large
+ *    16.4 - Desktop Small
+ *    16.5 - Desktop Medium
+ *    16.6 - Desktop Large
+ *    16.7 - Desktop X-Large
+ * 17.0 - Print
+ */
+
+/* ---------------------------------------------------
+                     COLOR GUIDE
+
+WHITE: rgb()
+BLACK: rgb()
+      rgba()
+
+----------------------------------------------------*/
+
+/* ---------------------------------------------------
+                      GLOBAL STYLES
+----------------------------------------------------*/
+body {
+  font-size: px;
+  font-family: ;
+  color: rgb( , , );
+  background: # ;
+  background-image: url(../images/background.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding: % % % % ;
+}
+
+
+html {
+
+}
+
+.container {
+
+}
+
+header {
+  
+}
+
+h1, h2, h3 {
+  font-family: ;
+  font-weight: ;
+}
+
+h1, h2, h3, h4, h5, h6 {
+
+}
+
+h1 {
+  font-size: em;
+  line-height: em;
+  margin-top: em;
+  margin-bottom: ;
+}
+
+h2 {
+  font-size: em;
+  line-height: em;
+  margin-top: em;
+  margin-bottom: ;
+}
+
+h3 {
+  font-size: em;
+  line-height: em;
+  margin-top: em;
+  margin-bottom: ;
+}
+
+p {
+  font-size: em;
+  font-weight: ;
+  line-height: em;
+  margin-top: em;
+  margin-bottom: ;
+}
+
+
+li {
+
+}
+
+img {
+
+}
+
+a:link {
+  color: rgb( , , );
+  text-decoration: ;
+}
+
+  a:visited {
+    color: rgb( , , );
+    text-decoration: ;
+  }
+
+  a:hover {
+    color: rgb( , , );
+    text-decoration: ;
+  }
+
+  a:active {
+    color: rgb( , , );
+    text-decoration: ;
+  }
+
+.button {
+
+}
+
+  .button a {
+
+  }
+
+  .button a:hover {
+
+  }
+
+.featured-info h3 {
+
+}
+
+.featured-info p {
+
+}
+
+.featured-info ul {
+
+}
+
+.gallery {
+
+}
+
+  .gallery img {
+
+  }
+
+/* ---------------------------------------------------
+                      LOGO STYLES
+----------------------------------------------------*/
+.logo {
+
+}
+
+  .logo img {
+
+  }
+
+/* ---------------------------------------------------
+                MAIN NAVIGATION STYLES
+----------------------------------------------------*/
+
+/* ---------------------------------------------------
+                  DETAIL PAGE STYLES
+----------------------------------------------------*/
+
+/* ---------------------------------------------------
+                        SIDEBAR
+----------------------------------------------------*/
+
+/* ---------------------------------------------------
+                  GLOBAL FOOTER STYLES
+----------------------------------------------------*/
+footer {
+
+}
+
+  footer h4 {
+
+  }
+
+  footer p 
+
+  }
+
+/* ---------------------------------------------------
+                    MEDIA QUERIES
+----------------------------------------------------*/
+@media screen and (min-width: 600px) {
+    
+} /* media query for 600px */
+
+@media screen and (min-width: 750px){
+
+} /* media query for 750px  */
+
+@media screen and (min-width: 880px){
+    
+}/* media query for 880px  */
+
+@media screen and (min-width: 1050px){
+
+} /* media query for 1050px  */
+
+/* ---------------------------------------------------
+                BOOTSTRAP MEDIA QUERIES
+----------------------------------------------------*/
+@media (max-device-width: 480px) and (orientation: landscape) {
+
+}
+
+@media (max-width: 767px) {
+
+}
+
+@media screen and (max-width: 767px) {
+
+}
+
+@media (min-width: 768px) {
+
+}
+
+@media screen and (min-width: 768px) {
+
+}
+ 
+@media (min-width: 768px) and (max-width: 991px) {
+
+}
+  
+@media (min-width: 992px) {
+
+}
+
+@media (min-width: 992px) and (max-width: 1199px) {
+
+}
+  
+@media (min-width: 1200px) {
+
+}
