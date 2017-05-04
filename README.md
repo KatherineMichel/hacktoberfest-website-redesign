@@ -37,12 +37,10 @@ Progressive Enhancement
 * [Progressive Enhancement Wikipedia](https://en.wikipedia.org/wiki/Progressive_enhancement)
 
 Responsive Design (See also Media Queries Examples)
-* [Ethan Marcotte: Responsive Web Design](http://alistapart.com/article/responsive-web-design) and [Responsive Web Design Wikipedia](http://en.wikipedia.org/wiki/Responsive_web_design)
 
 Device Mockups and Specifications
 
 Design Teardowns and Style Tiles
-* [Product Teardown Wikipedia](https://en.wikipedia.org/wiki/Product_teardown)
 * [Style Tiles](http://styletil.es) and [Style Tiles Examples](http://styletil.es/#examples)
 * [Mood Board Wikipedia](https://en.wikipedia.org/wiki/Mood_board)
 
@@ -50,42 +48,6 @@ Sprints
 
 Protyping
 * [Keynotopia](http://keynotopia.com)
-
-<!--
-Prototyping Software- Keynotopia
-* [Keynotopia Twitter](https://twitter.com/keynotopia), and [Keynotopia Super Bundle (including Functionality List)](http://keynotopia.com/keynotopia-super-bundle)  
-* [Fake It Make It: How to Make an App Prototype in 3 Hours by Amir Khella (featuring Keynotopia)](http://www.amazon.com/dp/B00X8U2BCY) and [Fake It Make It](http://keynotopia.com/fakeitmakeit)
-* [Keynotopia FontAwesome](http://keynotopia.com/fontawesome-icons-for-keynote-and-powerpoint)
-
-Prototyping Software- Keynotopia- Tutorials
-* [How to Use Keynote Master Slides in Apple Keynote](http://keynotopia.com/how-to-use-keynote-master-slides-in-apple-keynote)
-
-Prototyping Software- Keynote- Docs
-* [Keynote for Mac: Keynote for Mac keyboard shortcuts](https://support.apple.com/kb/PH24313?locale=en_US&viewlocale=en_US)
-* [Keynote for Mac: Add and edit master slides](https://support.apple.com/kb/PH16978?locale=en_US)
-* [Keynote for Mac: Animate objects](https://support.apple.com/kb/ph16960?locale=en_US)
-
-http://keynotopia.com/guides-ppt/?mc_cid=0b813fc8c6&mc_eid=2008dfea31
-
-http://keynotopia.com/#how
-http://keynotopia.com/guides
-http://keynotopia.com/bootstrap
-http://keynotopia.com/keynote-mockups-templates
-http://keynotopia.com/web-prototyping
-
-http://keynotopia.com/tutorials
-http://keynotopia.com/keynote-and-powerpoint-mockup-templates
-http://keynotopia.com/how-to-design-a-web-or-mobile-app-in-7-steps
-http://keynotopia.com/how-to-create-ui-animations-with-keynote
-http://keynotopia.com/how-to-design-and-prototype-user-interfaces-using-keynote-on-icloud-com
-
-https://support.apple.com/en-us/HT202220
-
-https://help.apple.com/keynote/mac
-https://support.apple.com/kb/PH24334?locale=en_US&viewlocale=en_US
-
-https://www.youtube.com/watch?v=HPjwv056FbA&index=1&list=PLchknTmv2KcsHjMvWtfOuZT4kIZUbVWcX
--->
 
 Full Page Screen Shots
 * [Open Screenshot](https://chrome.google.com/webstore/detail/open-screenshot/akgpcdalpfphjmfifkmfbpdmgdmeeaeo/related?hl=en)
@@ -95,9 +57,6 @@ Code Editor: Brackets (a.k.a. Edge Code)
 
 Adobe (See also Edge Code and Brackets)
 * [Adobe Creative Cloud](http://www.adobe.com/creativecloud) and [Adobe Creative Cloud Blog](https://blogs.adobe.com/creativecloud)
-* [Adobe Lightroom](https://lightroom.adobe.com)
-* [Adobe Experience Design CC](https://www.adobe.com/products/experience-design.html)
-* [Adobe Photoshop](http://www.adobe.com/products/photoshop-lightroom.html)
 * [Adobe Color Wheel](https://color.adobe.com/create/color-wheel)
 * [Adobe Kuler Color Themes](https://helpx.adobe.com/illustrator/using/create-color-themes-kuler.html)
 * [Adobe Edge Web Fonts](https://edgewebfonts.adobe.com)
@@ -119,12 +78,6 @@ https://typekit.com/fonts
 https://helpx.adobe.com/typekit/system-subscription-requirements.html
 http://www.adobe.com/creativecloud/catalog/desktop.html
 http://www.adobe.com/creativecloud/desktop-app.html
-
-Illustration (See also below), Serif DrawPlus, Adobe Illustrator
-https://www.canva.com
-http://www.adobe.com/products/fireworks.html
-http://www.adobe.com/products/illustrator.html
-https://affinity.serif.com/en-us/designer
 -->
 
 Layout
@@ -157,10 +110,6 @@ Font Stack
 
 Fonts (See also Google Apps)
 * [Google Fonts](https://fonts.google.com) and [Google Fonts List GitHub](https://github.com/google/fonts/tree/master/ofl)
-* [Font Squirrel (Recommended by Susan Simkins)](https://www.fontsquirrel.com)
-* [dafont (Noted by Susan Simkins, less good)](http://www.dafont.com)
-* [Font Famous](http://fontfamous.com)
-* [Fontscape](http://www.fontscape.com)
 
 <!--
 Typical base is 16px
@@ -234,37 +183,6 @@ CSS Reset (HTML5 Compatibility Check/Normalization)
 
 <!--
 https://modernizr.com/download?setclasses
--->
-
-<!--
-https://developer.mozilla.org/en-US/docs/Web/CSS/Cascade
-https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout
-https://developer.mozilla.org/en-US/docs/Web/CSS/grid
-https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/Using_HTML_sections_and_outlines
-
-HTML Elements/Sections
-https://developer.mozilla.org/en-US/docs/Web/HTML/Element
-https://developer.mozilla.org/en-US/docs/Web/HTML/Element/section
-http://blog.teamtreehouse.com/use-html5-sectioning-elements
-https://developer.mozilla.org/en-US/docs/Web/HTML/Inline_elements
-
-* [Mozilla Developer HTML Elements](https://developer.mozilla.org/en-US/docs/web/html/element)
-
-https://developer.mozilla.org/en-US/docs/Web/CSS/overflow
-https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Properties_Reference
-https://developer.mozilla.org/en-US/docs/Glossary/Vendor_Prefix
-https://developer.mozilla.org/en-US/docs/Web/CSS/Specificity
-https://developer.mozilla.org/en-US/docs/Web/CSS/Shorthand_properties
-https://developer.mozilla.org/en-US/docs/Web/CSS/z-index
-https://developer.mozilla.org/en-US/docs/Web/CSS/position
-https://developer.mozilla.org/en-US/docs/Web/CSS/@import
-https://teamtreehouse.com/library/css-basics/getting-started-with-css/importing-style-sheets-with-import
-
-https://developer.mozilla.org/en-US/docs/Web/CSS/Universal_selectors
-https://developer.mozilla.org/en-US/docs/Web/CSS/Pseudo-classes
-https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Using_CSS_flexible_boxes
-
-https://developer.mozilla.org/en-US/docs/Learn/CSS/Styling_text/Fundamentals
 -->
 
 <!--
