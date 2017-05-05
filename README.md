@@ -23,15 +23,16 @@
 
 ### Hero Image
 
-Image used with permission from [Kim Støvring](https://www.flickr.com/photos/kimstovring/15486932228/in/dateposted) under [CC License](https://creativecommons.org/licenses/by/2.0)
 ![](readme-images/halloween-wallpaper.jpg)
+
+Image used with permission from [Kim Støvring](https://www.flickr.com/photos/kimstovring/15486932228/in/dateposted) under [CC License](https://creativecommons.org/licenses/by/2.0)
 
 #### Hero Image Modification
 
-Image used with permission from [pixabay](https://pixabay.com/p-949058) under [CC License](https://creativecommons.org/publicdomain/zero/1.0/deed.en)
-
 Silhouette of female will be cropped into house window
 ![](readme-images/silhouettes-at-computer.png)
+
+Image used with permission from [pixabay](https://pixabay.com/p-949058) under [CC License](https://creativecommons.org/publicdomain/zero/1.0/deed.en)
 
 <!--
 
@@ -49,18 +50,10 @@ Hero (Used with permission from [Nick Quaranto](http://quaran.to/blog/2008/10/20
 
 ## Resources Used for Redesign
 
-Progressive Enhancement
-* [Progressive Enhancement Wikipedia](https://en.wikipedia.org/wiki/Progressive_enhancement)
-
-Responsive Design/Patterns
-
-Device Mockups and Specifications
-
-Design Teardowns and Style Tiles
+Design Style Tiles
 * [Style Tiles](http://styletil.es) and [Style Tiles Examples](http://styletil.es/#examples)
-* [Mood Board Wikipedia](https://en.wikipedia.org/wiki/Mood_board)
 
-Sprints
+Design Sprint
 
 Protyping
 * [Keynotopia](http://keynotopia.com)
@@ -71,33 +64,16 @@ Full Page Screen Shots
 Code Editor: Brackets (a.k.a. Edge Code)
 * [Brackets](http://brackets.io)
 
-Adobe (See also Edge Code and Brackets)
-* [Adobe Creative Cloud](http://www.adobe.com/creativecloud) and [Adobe Creative Cloud Blog](https://blogs.adobe.com/creativecloud)
-* [Adobe Edge Web Fonts](https://edgewebfonts.adobe.com)
-
-<!--
-https://github.com/adobe-fonts
-
-https://creative.adobe.com/plans
-
-https://blog.typekit.com/2017/05/02/hundreds-more-fonts-in-the-library-and-marketplace-1500-added-for-sync/
-https://typekit.com/fonts
-https://helpx.adobe.com/typekit/system-subscription-requirements.html
-http://www.adobe.com/creativecloud/catalog/desktop.html
-http://www.adobe.com/creativecloud/desktop-app.html
--->
-
 Layout
-* [Multi-Device Layout Pattern](http://www.lukew.com/ff/entry.asp?1514)
+* [Multi-Device Layout Patterns](http://www.lukew.com/ff/entry.asp?1514)
 
-HTML and CSS Flow
-* [HTML Outline](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/Using_HTML_sections_and_outlines) (HTML5 versus HTML4)
-* Document Flow
+Semantics
 * [Semantic HTML](https://en.wikipedia.org/wiki/Semantic_HTML)
-* Selector Grouping
-* [Cascade](https://developer.mozilla.org/en-US/docs/Web/CSS/Cascade)
 
-Document Outline Addons
+Semantic Site Audit
+
+Document Outline
+* [HTML Outline](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/Using_HTML_sections_and_outlines) (HTML5 versus HTML4)
 
 <!--
 HTML5 Outliner
@@ -105,27 +81,11 @@ https://chrome.google.com/webstore/detail/html5-outliner/afoibpobokebhgfnknfndkg
 https://addons.mozilla.org/en-US/firefox/addon/html5_outliner/
 -->
 
-Semantic Site Audit
-
-Hosted Libraries (See also: Google Fonts)
+Hosted Libraries
 * [Google Libraries](https://developers.google.com/speed/libraries)
-* [MaxCDN Bootstrap](http://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css)
 
-Font Stack
-* [Web Safe Fonts](https://en.wikipedia.org/wiki/Web_typography#Web-safe_fonts)
-* [Fallback Font Wikipedia](https://en.wikipedia.org/wiki/Fallback_font)
-
-Fonts (See also Google Apps)
+Fonts
 * [Google Fonts](https://fonts.google.com)
-
-<!--
-[Google Fonts List GitHub](https://github.com/google/fonts/tree/master/ofl)
-
-Typical base is 16px
-https://medium.freecodecamp.com/how-to-choose-and-pair-typefaces-98fee945d13c#.c9d6lv6lj
-
-Em
--->
 
 Typographic Scale and Vertical Rhythm
 * [Modular Scale](http://www.modularscale.com)
@@ -140,17 +100,51 @@ https://www.xquartz.org
 https://inkscape.org/en/download/mac-os
 -->
 
-Free Photos
+
 
 <!--
-http://svgpocketguide.com/book
-https://github.com/jonitrythall/svgpocketguide/blob/master/svgpocketguide.md
-https://en.wikipedia.org/wiki/Scalable_Vector_Graphics
-https://www.w3schools.com/graphics/svg_intro.asp
-https://www.w3schools.com/html/html5_svg.asp
-https://developer.mozilla.org/en-US/docs/Web/SVG
-https://www.w3.org/Graphics/SVG
+* Document Flow
 
+* Selector Grouping
+* [Cascade](https://developer.mozilla.org/en-US/docs/Web/CSS/Cascade)
+
+Adobe (See also Edge Code and Brackets)
+* [Adobe Creative Cloud](http://www.adobe.com/creativecloud) and [Adobe Creative Cloud Blog](https://blogs.adobe.com/creativecloud)
+* [Adobe Edge Web Fonts](https://edgewebfonts.adobe.com)
+
+https://github.com/adobe-fonts
+
+https://creative.adobe.com/plans
+
+https://blog.typekit.com/2017/05/02/hundreds-more-fonts-in-the-library-and-marketplace-1500-added-for-sync/
+https://typekit.com/fonts
+https://helpx.adobe.com/typekit/system-subscription-requirements.html
+http://www.adobe.com/creativecloud/catalog/desktop.html
+http://www.adobe.com/creativecloud/desktop-app.html
+
+* [Mood Board Wikipedia](https://en.wikipedia.org/wiki/Mood_board)
+
+Progressive Enhancement
+* [Progressive Enhancement Wikipedia](https://en.wikipedia.org/wiki/Progressive_enhancement)
+
+Responsive Design/Patterns
+
+Device Mockups and Specifications
+
+* [MaxCDN Bootstrap](http://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css)
+
+Font Stack
+* [Web Safe Fonts](https://en.wikipedia.org/wiki/Web_typography#Web-safe_fonts)
+* [Fallback Font Wikipedia](https://en.wikipedia.org/wiki/Fallback_font)
+
+[Google Fonts List GitHub](https://github.com/google/fonts/tree/master/ofl)
+
+Typical base is 16px
+https://medium.freecodecamp.com/how-to-choose-and-pair-typefaces-98fee945d13c#.c9d6lv6lj
+
+Em
+-->
+<!--
 http://jonibologna.com/flexbox-cheatsheet
 http://jonibologna.com/content/images/flexboxsheet.pdf
 -->
