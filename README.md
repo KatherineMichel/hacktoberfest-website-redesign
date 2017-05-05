@@ -15,7 +15,7 @@
 
 ![](readme-images/hacktoberfest-website.png)
 
-## Design
+## New Design Details
 
 ### Palette
 
@@ -25,6 +25,8 @@
 
 Hero (Used with permission from [Kim Støvring](https://www.flickr.com/photos/kimstovring/15486932228/in/dateposted) under [CC License](https://creativecommons.org/licenses/by/2.0))
 ![](readme-images/halloween-wallpaper.jpg)
+
+#### Hero Image Modification
 
 <!--
 
