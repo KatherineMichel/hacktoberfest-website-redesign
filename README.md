@@ -1,8 +1,21 @@
 # Hacktoberfest Website Redesign
 
+Table of Contents
+-----------------
+
+- [About The Website](#about-the-website)
+- [Useful Links](#useful-links)
+- [New Design Details](#new-design-details)
+    - [Palette](#palette)
+    - [Hero Image](#hero-image)
+
+<hr>
+
 ## About the Website
 
 [Single Page Application](https://en.wikipedia.org/wiki/Single-page_application), made using [Golang](https://golang.org), deployed via [Docker](https://www.docker.com) and [Heroku](https://www.heroku.com)
+
+:top: <sub>[**back to top**](#table-of-contents)</sub>
 
 ## Useful Links
 
@@ -10,6 +23,8 @@
 * [devICT Hacktoberfest](https://devict-hacktoberfest.herokuapp.com)
 * [devICT Hacktoberfest GitHub](https://github.com/devict/hacktoberfest)
 * [Local Server](http://localhost:8080)
+
+:top: <sub>[**back to top**](#table-of-contents)</sub>
 
 ## Website Design As Is
 
@@ -21,24 +36,21 @@
 
 ![](readme-images/halloween-palette.jpg)
 
+:top: <sub>[**back to top**](#table-of-contents)</sub>
+
 ### Hero Image
 
 ![](static/images/hero.jpg)
 
 The main image was used with permission from [Kim Støvring](https://www.flickr.com/photos/kimstovring/15486932228/in/dateposted) under [CC License](https://creativecommons.org/licenses/by/2.0). A silhouette of a female was cropped into the house window. This image was used with permission from [pixabay](https://pixabay.com/p-949058) under [CC License](https://creativecommons.org/publicdomain/zero/1.0/deed.en).
 
+:top: <sub>[**back to top**](#table-of-contents)</sub>
+
 <!--
-
-### Quirky
-
 Hero (Used with permission from [Nick Quaranto](http://quaran.to/blog/2008/10/20/pumpkin-carving-2008) under [CC License](https://creativecommons.org/licenses/by-sa/3.0/us))
 ![](readme-images/octocat-carved-pumpkin.jpg)
 
-### Fun
-
-### Quaint
-
-### Sophisticated
+Other possibilities: Quirky, Fun, Quaint, Sophisticated
 -->
 
 ## Resources Used for Redesign
