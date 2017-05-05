@@ -92,14 +92,7 @@ Typographic Scale and Vertical Rhythm
 * [Vertical Rhythm](https://drewish.com/tools/vertical-rhythm)
 
 Photo Editing (See also Adobe)
-* [Gimp](http://www.gimp.org), [Gimp Docs](http://docs.gimp.org), and [Gimp Plugin Registry](http://registry.gimp.org/glossary/a)
-* [Inkscape](http://www.inkscape.org/en) 
-
-<!--
-https://www.xquartz.org
-https://inkscape.org/en/download/mac-os
--->
-
+* [Gimp](http://www.gimp.org)
 
 
 <!--
@@ -160,7 +153,6 @@ https://developers.google.com/web/fundamentals/design-and-ui/responsive/patterns
 
 Google 
 * [Google Web Fundamentals](https://developers.google.com/web/fundamentals), [Google Web Fundamentals: GitHub](https://github.com/google/WebFundamentals), and [Google Web Fundamentals Research Study](https://developers.google.com/web/fundamentals/principles/research-study)  
-* [Google Web Starter Kit](https://developers.google.com/web/starter-kit), [Google Web Starter Kit Styleguide](http://google.github.io/web-starter-kit/hello-world/styleguide.html), and [Google Web Starter Kit GitHub](https://github.com/google/web-starter-kit)  
 
 CSS Reset (HTML5 Compatibility Check/Normalization)
 * [Eric A. Meyer CSS Reset](http://meyerweb.com/eric/tools/css/reset)
@@ -197,11 +189,9 @@ WHATWG (Better Reference than W3C)
 * [WHATWG (Web Hypertext Application Technology Working Group)](https://whatwg.org), [WHATWG Developers](https://developers.whatwg.org), and [WHATWG (Web Hypertext Application Technology Working Group) GitHub](https://github.com/whatwg)
 
 W3C (The World Wide Web Consortium) Standards
-* [W3C Standards Table of Contents](https://www.w3.org/standards)
 * [W3C HTML](https://www.w3.org/html)
 * [W3C HTML5](https://www.w3.org/TR/html5)
 * [W3C Developer Tools](http://w3c.github.io/developers/tools)
-* [W3C GitHub](https://github.com/w3c) 
 
 <!--
 Mozilla Documentation
@@ -219,8 +209,6 @@ Mozilla JavaScript Tutorials
 
 jQuery
 * [jQuery](https://jquery.com) (version impacts browser support)
-* [jQuery API](http://api.jquery.com)
-* [jQuery Learning Center](http://learn.jquery.com)
 
 GitHub HTML and CSS Styleguides
 * [GitHub CSS Styleguide](http://primercss.io) 
