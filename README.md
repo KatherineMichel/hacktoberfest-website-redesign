@@ -28,10 +28,6 @@ Local Server
 
 :top: <sub>[**back to top**](#table-of-contents)</sub>
 
-## Website Design As Is
-
-![](readme-images/hacktoberfest-website.png)
-
 ## New Design Details
 
 ### Palette
@@ -349,5 +345,11 @@ https://www.epilepsy.org.uk/info/photosensitive-epilepsy/web-design
 http://webaim.org/articles/seizure/
 https://www.w3.org/TR/UNDERSTANDING-WCAG20/seizure.html
 -->
+
+:top: <sub>[**back to top**](#table-of-contents)</sub>
+
+## Old Website Design
+
+![](readme-images/hacktoberfest-website.png)
 
 :top: <sub>[**back to top**](#table-of-contents)</sub>
