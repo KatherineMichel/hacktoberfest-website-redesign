@@ -17,18 +17,20 @@
 
 ## Example Designs
 
+### Traditional
+
 ### Quirky
 
 Hero (Used with permission from [Nick Quaranto](http://quaran.to/blog/2008/10/20/pumpkin-carving-2008) under [CC License](https://creativecommons.org/licenses/by-sa/3.0/us))
 ![](octocat-carved-pumpkin.jpg)
 
+<!--
 ### Fun
-
-### Traditional
 
 ### Quaint
 
 ### Sophisticated
+-->
 
 ## Resources Used for Redesign
 
