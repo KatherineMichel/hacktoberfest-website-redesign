@@ -1,19 +1,19 @@
 # Hacktoberfest Website Redesign
 
+## About the Website
+
+[Single Page Application](https://en.wikipedia.org/wiki/Single-page_application), made using [Golang](https://golang.org), deployed via [Docker](https://www.docker.com) and [Heroku](https://www.heroku.com)
+
+## Useful Links
+
 * [Hacktoberfest](https://hacktoberfest.digitalocean.com)
 * [devICT Hacktoberfest](https://devict-hacktoberfest.herokuapp.com)
 * [devICT Hacktoberfest GitHub](https://github.com/devict/hacktoberfest)
 * [Local Server](http://localhost:8080)
 
-## About the Website
-
-[Single Page Application](https://en.wikipedia.org/wiki/Single-page_application), made using [Golang](https://golang.org), deployed via [Docker](https://www.docker.com) and [Heroku](https://www.heroku.com)
-
 ## Website Design As Is
 
 ![](hacktoberfest-website.png)
-
-## Resources Used for Redesign
 
 ## Example Designs
 
@@ -24,19 +24,12 @@ Hero (Used with permission from [Nick Quaranto](http://quaran.to/blog/2008/10/20
 
 ### Example 2: Sophisticated
 
-
-
-
-<!--
-https://bradfrost.github.io/this-is-responsive/patterns.html
-https://bradfrost.github.io/this-is-responsive/resources.html
-https://responsivedesign.is/patterns
--->
+## Resources Used for Redesign
 
 Progressive Enhancement
 * [Progressive Enhancement Wikipedia](https://en.wikipedia.org/wiki/Progressive_enhancement)
 
-Responsive Design (See also Media Queries Examples)
+Responsive Design/Patterns
 
 Device Mockups and Specifications
 
@@ -63,15 +56,9 @@ Adobe (See also Edge Code and Brackets)
 * [Adobe Spark](https://spark.adobe.com)
 
 <!--
-https://github.com/adobe
 https://github.com/adobe-fonts
 
 https://creative.adobe.com/plans
-
-WSWYG
-http://www.adobe.com/products/dreamweaver.html
- 
-https://offers.adobe.com/en/na/marketing/landings/_338365_finding_the_perfect_image.html
 
 https://blog.typekit.com/2017/05/02/hundreds-more-fonts-in-the-library-and-marketplace-1500-added-for-sync/
 https://typekit.com/fonts
@@ -116,22 +103,6 @@ Typical base is 16px
 https://medium.freecodecamp.com/how-to-choose-and-pair-typefaces-98fee945d13c#.c9d6lv6lj
 
 Em
-http://www.w3schools.com/tags/tag_em.asp
-https://developer.mozilla.org/en-US/docs/Web/HTML/Element/em
-https://en.wikipedia.org/wiki/Em_(typography)
-
-@font-face
-https://www.w3schools.com/cssref/css3_pr_font-face_rule.asp
-https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face
-http://www.font-face.com
-
-https://en.wikipedia.org/wiki/X-height
-Line height
-https://en.wikipedia.org/wiki/Leading
-https://en.wikipedia.org/wiki/Kerning
-Tracking text
-https://en.wikipedia.org/wiki/Letter-spacing
-https://en.wikipedia.org/wiki/Italic_type
 -->
 
 Typographic Scale and Vertical Rhythm
