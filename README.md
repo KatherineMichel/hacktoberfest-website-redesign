@@ -70,6 +70,14 @@ Design
 * [Style Tiles](http://styletil.es)
 * Design Sprint
 
+<!--
+http://www.gv.com/sprint
+https://designsprintkit.withgoogle.com
+https://developers.google.com/design-sprint
+https://github.com/thoughtbot/design-sprint
+https://en.wikipedia.org/wiki/Design_sprint
+-->
+
 Protyping
 * [Keynotopia](http://keynotopia.com)
 
@@ -125,19 +133,7 @@ Google
 * [Google Web Fundamentals](https://developers.google.com/web/fundamentals), [Google Web Fundamentals: GitHub](https://github.com/google/WebFundamentals), and [Google Web Fundamentals Research Study](https://developers.google.com/web/fundamentals/principles/research-study)  
 
 CSS Reset (HTML5 Compatibility Check/Normalization)
-* [Eric A. Meyer CSS Reset](http://meyerweb.com/eric/tools/css/reset)
 * [Normalize GitHub](https://github.com/necolas/normalize.css)  
-* [Modernizr](http://modernizr.com) and [Modernizr GitHub](https://github.com/Modernizr/Modernizr)  
-
-<!--
-https://modernizr.com/download?setclasses
--->
-
-<!--
-New
-https://www.w3.org/TR/html4/index/elements.html
-https://www.w3.org/TR/html5/
--->
 
 Mozilla HTML5 and CSS3- Info and Tutorials
 * [Mozilla HTML5](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
@@ -163,14 +159,18 @@ W3C (The World Wide Web Consortium) Standards
 * [W3C HTML5](https://www.w3.org/TR/html5)
 * [W3C Developer Tools](http://w3c.github.io/developers/tools)
 
+<!--
+New
+https://www.w3.org/TR/html4/index/elements.html
+https://www.w3.org/TR/html5/
+-->
+
 jQuery
 * [jQuery](https://jquery.com) (version impacts browser support)
 
-GitHub HTML and CSS Styleguides
+HTML and CSS Styleguides
 * [GitHub CSS Styleguide](http://primercss.io) 
 * [MDO Code Guide](http://codeguide.co) and [MDO Code Guide GitHub](https://github.com/mdo/code-guide) 
-
-Google Styleguides
 * [Google HTML and CSS Styleguide](https://google.github.io/styleguide/htmlcssguide.html)
 
 Accessibility
@@ -203,6 +203,12 @@ Microformats
 * [Microformats](http://microformats.org)
 
 <!--
+* [Eric A. Meyer CSS Reset](http://meyerweb.com/eric/tools/css/reset)
+
+* [Modernizr](http://modernizr.com) and [Modernizr GitHub](https://github.com/Modernizr/Modernizr)  
+
+https://modernizr.com/download?setclasses
+
 * [Google JavaScript Styleguide](https://google.github.io/styleguide/javascriptguide.xml)
 
 JavaScript Styleguide  
