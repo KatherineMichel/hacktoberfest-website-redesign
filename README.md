@@ -39,7 +39,7 @@ Local Server
 
 ### Hero Image
 
-![](static/images/stranger.jpg)
+![](static/images/stranger.png)
 
 :top: <sub>[**back to top**](#table-of-contents)</sub>
 
