@@ -117,21 +117,6 @@ Typographic Scale and Vertical Rhythm
 Photo Editing
 * [Gimp](http://www.gimp.org)
 
-
-
-
-Responsiveness- and Media Queries
-* [Mozilla Developer Media Queries](https://developer.mozilla.org/en-US/docs/Web/Guide/CSS/Media_queries) and [Mozilla Developer Using Media Queries](https://developer.mozilla.org/en-US/docs/Web/CSS/Media_Queries/Using_media_queries)
-* [Google Developers Responsive Fundamentals- Use of Media Queries](https://developers.google.com/web/fundamentals/design-and-ui/responsive/fundamentals/use-media-queries?hl=en)
-* [Google Developers Responsive Fundamentals- How to Choose Breakpoints](https://developers.google.com/web/fundamentals/design-and-ui/responsive/fundamentals/how-to-choose-breakpoints?hl=en)
-
-<!--
-https://developers.google.com/web/fundamentals/design-and-ui/responsive/patterns
--->
-
-Google 
-* [Google Web Fundamentals](https://developers.google.com/web/fundamentals), [Google Web Fundamentals: GitHub](https://github.com/google/WebFundamentals), and [Google Web Fundamentals Research Study](https://developers.google.com/web/fundamentals/principles/research-study)  
-
 CSS Reset (HTML5 Compatibility Check/Normalization)
 * [Normalize GitHub](https://github.com/necolas/normalize.css)  
 
@@ -141,10 +126,7 @@ Mozilla HTML5 and CSS3- Info and Tutorials
 
 Mozilla HTML and CSS Tutorials
 * [Mozilla HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
-* [Mozilla HTML Guide](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML)
 * [Mozilla CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
-* [Mozilla CSS Guide](https://developer.mozilla.org/en-US/docs/Web/Guide/CSS)
-* [Mozilla CSS Reference](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)
 
 HTML5 and CSS3 Cheat Sheets
 * [HTML5- The Web platform: Browser technologies](https://platform.html5.org)
@@ -164,6 +146,20 @@ New
 https://www.w3.org/TR/html4/index/elements.html
 https://www.w3.org/TR/html5/
 -->
+
+
+Responsiveness- and Media Queries
+* [Mozilla Developer Media Queries](https://developer.mozilla.org/en-US/docs/Web/Guide/CSS/Media_queries) and [Mozilla Developer Using Media Queries](https://developer.mozilla.org/en-US/docs/Web/CSS/Media_Queries/Using_media_queries)
+* [Google Developers Responsive Fundamentals- Use of Media Queries](https://developers.google.com/web/fundamentals/design-and-ui/responsive/fundamentals/use-media-queries?hl=en)
+* [Google Developers Responsive Fundamentals- How to Choose Breakpoints](https://developers.google.com/web/fundamentals/design-and-ui/responsive/fundamentals/how-to-choose-breakpoints?hl=en)
+
+<!--
+https://developers.google.com/web/fundamentals/design-and-ui/responsive/patterns
+-->
+
+Google 
+* [Google Web Fundamentals](https://developers.google.com/web/fundamentals), [Google Web Fundamentals: GitHub](https://github.com/google/WebFundamentals), and [Google Web Fundamentals Research Study](https://developers.google.com/web/fundamentals/principles/research-study)  
+
 
 jQuery
 * [jQuery](https://jquery.com) (version impacts browser support)
@@ -196,7 +192,7 @@ Browser Statistics
 
 Graph and Schema- General (See also Facebook Open Graph and W3C Semantic Extractor)
 * [Open Graph Protocol Schema](http://ogp.me) 
-* [Schema Org](http://schema.org), [Schema Org Getting Started](http://schema.org/docs/gs.html), and [Schema Org Wikipedia](http://en.wikipedia.org/wiki/Schema.org) 
+* [Schema Org](http://schema.org)
 * [Schema Creator](http://schema-creator.org)
 
 Microformats
@@ -274,9 +270,6 @@ http://jonibologna.com/content/images/flexboxsheet.pdf
 -->
 
 <!--
-Mozilla Documentation
-* [Mozilla Developer](https://developer.mozilla.org/en-US), and [Mozilla Developer Docs](https://developer.mozilla.org/en-US/docs/Web) 
-
 Mozilla JavaScript Tutorials
 * [Mozilla JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  
 * [Mozilla JavaScript Guide](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide) 
