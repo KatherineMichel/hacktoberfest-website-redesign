@@ -51,6 +51,8 @@ Hero (Used with permission from [Nick Quaranto](http://quaran.to/blog/2008/10/20
 Other possibilities: Quirky, Fun, Quaint, Sophisticated
 -->
 
+### Layout Mockups
+
 ## Resources Used for Redesign
 
 Design Style Tiles
@@ -94,7 +96,7 @@ Typographic Scale and Vertical Rhythm
 * [Modular Scale](http://www.modularscale.com)
 * [Vertical Rhythm](https://drewish.com/tools/vertical-rhythm)
 
-Photo Editing (See also Adobe)
+Photo Editing
 * [Gimp](http://www.gimp.org)
 
 
@@ -189,7 +191,7 @@ HTML5 and CSS3 Cheat Sheets
 * [Can I Use](http://caniuse.com) and [Can I Use GitHub](https://github.com/Fyrd/caniuse)
 
 WHATWG (Better Reference than W3C)
-* [WHATWG (Web Hypertext Application Technology Working Group)](https://whatwg.org), [WHATWG Developers](https://developers.whatwg.org), and [WHATWG (Web Hypertext Application Technology Working Group) GitHub](https://github.com/whatwg)
+* [WHATWG (Web Hypertext Application Technology Working Group)](https://whatwg.org), [WHATWG Developers](https://developers.whatwg.org)
 
 W3C (The World Wide Web Consortium) Standards
 * [W3C HTML](https://www.w3.org/html)
