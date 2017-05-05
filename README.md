@@ -7,6 +7,7 @@ Table of Contents
 - [New Design Details](#new-design-details)
     - [Palette](#palette)
     - [Hero Image](#hero-image)
+    - [T-shirt Design](#t-shirt-design)
     - [Font Pairing](#font-pairing)
 - [Resources Used for Redesign](#resources-used-for-redesign)
 - [Old Website Design](#old-website-design)
@@ -31,6 +32,8 @@ Local Server
 
 ## New Design Details
 
+This is one of several possible designs. 
+
 ### Palette
 
 ![](readme-images/halloween-palette.jpg)
@@ -51,6 +54,12 @@ Hero (Used with permission from [Nick Quaranto](http://quaran.to/blog/2008/10/20
 
 Other possibilities: Quirky, Fun, Quaint, Sophisticated
 -->
+
+### T-shirt Design
+
+@kentonh (Kenton Hansen) has suggested this as a possible t-shirt design
+
+![](static/images/stranger.png)
 
 ### Font Pairing
 
