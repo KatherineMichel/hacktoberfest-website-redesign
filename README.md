@@ -13,16 +13,19 @@
 
 ## Website Design As Is
 
-![](hacktoberfest-website.png)
+![](readme-images/hacktoberfest-website.png)
 
 ## Example Designs
 
 ### Traditional
 
+Hero (Used with permission from [Kim Støvring](https://www.flickr.com/photos/kimstovring/15486932228/in/dateposted) under [CC License](https://creativecommons.org/licenses/by/2.0))
+![](readme-images/halloween-wallpaper.jpg)
+
 ### Quirky
 
 Hero (Used with permission from [Nick Quaranto](http://quaran.to/blog/2008/10/20/pumpkin-carving-2008) under [CC License](https://creativecommons.org/licenses/by-sa/3.0/us))
-![](octocat-carved-pumpkin.jpg)
+![](readme-images/octocat-carved-pumpkin.jpg)
 
 <!--
 ### Fun
