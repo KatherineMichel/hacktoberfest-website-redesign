@@ -55,10 +55,9 @@ Other possibilities: Quirky, Fun, Quaint, Sophisticated
 
 ## Resources Used for Redesign
 
-Design Style Tiles
-* [Style Tiles](http://styletil.es) and [Style Tiles Examples](http://styletil.es/#examples)
-
-Design Sprint
+Design
+* [Style Tiles](http://styletil.es)
+* Design Sprint
 
 Protyping
 * [Keynotopia](http://keynotopia.com)
