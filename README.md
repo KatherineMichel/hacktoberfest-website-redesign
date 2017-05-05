@@ -7,6 +7,7 @@ Table of Contents
 - [New Design Details](#new-design-details)
     - [Palette](#palette)
     - [Hero Image](#hero-image)
+    - [Font Pairing](#font-pairing)
 - [Resources Used for Redesign](#resources-used-for-redesign)
 - [Old Website Design](#old-website-design)
 
@@ -50,6 +51,12 @@ Hero (Used with permission from [Nick Quaranto](http://quaran.to/blog/2008/10/20
 
 Other possibilities: Quirky, Fun, Quaint, Sophisticated
 -->
+
+### Font Pairing
+
+Main: [Nosifer](https://fonts.google.com/specimen/Nosifer)
+
+Pairing
 
 ### Layout Mockups
 
