@@ -50,10 +50,7 @@ Code Editor: Brackets (a.k.a. Edge Code)
 
 Adobe (See also Edge Code and Brackets)
 * [Adobe Creative Cloud](http://www.adobe.com/creativecloud) and [Adobe Creative Cloud Blog](https://blogs.adobe.com/creativecloud)
-* [Adobe Color Wheel](https://color.adobe.com/create/color-wheel)
-* [Adobe Kuler Color Themes](https://helpx.adobe.com/illustrator/using/create-color-themes-kuler.html)
 * [Adobe Edge Web Fonts](https://edgewebfonts.adobe.com)
-* [Adobe Spark](https://spark.adobe.com)
 
 <!--
 https://github.com/adobe-fonts
@@ -140,7 +137,6 @@ Responsiveness- and Media Queries
 
 <!--
 https://developers.google.com/web/fundamentals/design-and-ui/responsive/patterns
-https://v4-alpha.getbootstrap.com/layout/overview/#responsive-breakpoints
 -->
 
 Google 
@@ -160,10 +156,6 @@ https://modernizr.com/download?setclasses
 New
 https://www.w3.org/TR/html4/index/elements.html
 https://www.w3.org/TR/html5/
-
-https://www.w3schools.com/cssref/css_inherit.asp
-https://developer.mozilla.org/en-US/docs/Learn/CSS/Introduction_to_CSS/Cascade_and_inheritance
-https://www.w3.org/wiki/Inheritance_and_cascade
 -->
 
 Mozilla HTML5 and CSS3- Info and Tutorials
@@ -265,9 +257,6 @@ Graph and Schema- General (See also Facebook Open Graph and W3C Semantic Extract
 * [Open Graph Protocol Schema](http://ogp.me) 
 * [Schema Org](http://schema.org), [Schema Org Getting Started](http://schema.org/docs/gs.html), and [Schema Org Wikipedia](http://en.wikipedia.org/wiki/Schema.org) 
 * [Schema Creator](http://schema-creator.org)
-
-Open Search
-* [Open Search](http://www.opensearch.org/Home)
 
 Microformats
 * [Microformats](http://microformats.org)
