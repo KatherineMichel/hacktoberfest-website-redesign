@@ -93,9 +93,11 @@ Font Stack
 * [Fallback Font Wikipedia](https://en.wikipedia.org/wiki/Fallback_font)
 
 Fonts (See also Google Apps)
-* [Google Fonts](https://fonts.google.com) and [Google Fonts List GitHub](https://github.com/google/fonts/tree/master/ofl)
+* [Google Fonts](https://fonts.google.com)
 
 <!--
+[Google Fonts List GitHub](https://github.com/google/fonts/tree/master/ofl)
+
 Typical base is 16px
 https://medium.freecodecamp.com/how-to-choose-and-pair-typefaces-98fee945d13c#.c9d6lv6lj
 
@@ -184,6 +186,7 @@ W3C (The World Wide Web Consortium) Standards
 * [W3C Developer Tools](http://w3c.github.io/developers/tools)
 * [W3C GitHub](https://github.com/w3c) 
 
+<!--
 Mozilla Documentation
 * [Mozilla Developer](https://developer.mozilla.org/en-US), and [Mozilla Developer Docs](https://developer.mozilla.org/en-US/docs/Web) 
 
@@ -194,7 +197,6 @@ Mozilla JavaScript Tutorials
 * [Mozilla Web API](https://developer.mozilla.org/en-US/docs/Web/API)
 * [A Re-introduction to JS](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript)
 
-<!--
 * [Mozilla Document Object Model Reference](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model)
 -->
 
