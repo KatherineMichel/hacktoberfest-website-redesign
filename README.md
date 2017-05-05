@@ -110,52 +110,7 @@ Photo Editing
 * [Gimp](http://www.gimp.org)
 
 
-<!--
-* Document Flow
 
-* Selector Grouping
-* [Cascade](https://developer.mozilla.org/en-US/docs/Web/CSS/Cascade)
-
-Adobe (See also Edge Code and Brackets)
-* [Adobe Creative Cloud](http://www.adobe.com/creativecloud) and [Adobe Creative Cloud Blog](https://blogs.adobe.com/creativecloud)
-* [Adobe Edge Web Fonts](https://edgewebfonts.adobe.com)
-
-https://github.com/adobe-fonts
-
-https://creative.adobe.com/plans
-
-https://blog.typekit.com/2017/05/02/hundreds-more-fonts-in-the-library-and-marketplace-1500-added-for-sync/
-https://typekit.com/fonts
-https://helpx.adobe.com/typekit/system-subscription-requirements.html
-http://www.adobe.com/creativecloud/catalog/desktop.html
-http://www.adobe.com/creativecloud/desktop-app.html
-
-* [Mood Board Wikipedia](https://en.wikipedia.org/wiki/Mood_board)
-
-Progressive Enhancement
-* [Progressive Enhancement Wikipedia](https://en.wikipedia.org/wiki/Progressive_enhancement)
-
-Responsive Design/Patterns
-
-Device Mockups and Specifications
-
-* [MaxCDN Bootstrap](http://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css)
-
-Font Stack
-* [Web Safe Fonts](https://en.wikipedia.org/wiki/Web_typography#Web-safe_fonts)
-* [Fallback Font Wikipedia](https://en.wikipedia.org/wiki/Fallback_font)
-
-[Google Fonts List GitHub](https://github.com/google/fonts/tree/master/ofl)
-
-Typical base is 16px
-https://medium.freecodecamp.com/how-to-choose-and-pair-typefaces-98fee945d13c#.c9d6lv6lj
-
-Em
--->
-<!--
-http://jonibologna.com/flexbox-cheatsheet
-http://jonibologna.com/content/images/flexboxsheet.pdf
--->
 
 Responsiveness- and Media Queries
 * [Mozilla Developer Media Queries](https://developer.mozilla.org/en-US/docs/Web/Guide/CSS/Media_queries) and [Mozilla Developer Using Media Queries](https://developer.mozilla.org/en-US/docs/Web/CSS/Media_Queries/Using_media_queries)
@@ -208,6 +163,110 @@ W3C (The World Wide Web Consortium) Standards
 * [W3C HTML5](https://www.w3.org/TR/html5)
 * [W3C Developer Tools](http://w3c.github.io/developers/tools)
 
+jQuery
+* [jQuery](https://jquery.com) (version impacts browser support)
+
+GitHub HTML and CSS Styleguides
+* [GitHub CSS Styleguide](http://primercss.io) 
+* [MDO Code Guide](http://codeguide.co) and [MDO Code Guide GitHub](https://github.com/mdo/code-guide) 
+
+Google Styleguides
+* [Google HTML and CSS Styleguide](https://google.github.io/styleguide/htmlcssguide.html)
+
+Accessibility
+* [WebAim](http://webaim.org)
+
+Validation
+* [W3C Nu HTML Validator](https://validator.w3.org/nu)
+* Do Cross Browser Testing
+
+Lints
+* [CSS LINT](http://csslint.net)
+
+Google Developers- General and Web
+* [Google Developers](https://developers.google.com) 
+* [Google Developer Web](https://developers.google.com/web)
+
+Google Developers- Google Chrome Doc
+* [Google Chrome Home](https://developers.google.com/chrome)
+* [Google Chrome DevTool Docs](https://developers.google.com/web/tools/chrome-devtools)
+* [Google Chrome DevTools (Old)](https://developer.chrome.com/devtools)
+
+Browser Statistics
+
+Graph and Schema- General (See also Facebook Open Graph and W3C Semantic Extractor)
+* [Open Graph Protocol Schema](http://ogp.me) 
+* [Schema Org](http://schema.org), [Schema Org Getting Started](http://schema.org/docs/gs.html), and [Schema Org Wikipedia](http://en.wikipedia.org/wiki/Schema.org) 
+* [Schema Creator](http://schema-creator.org)
+
+Microformats
+* [Microformats](http://microformats.org)
+
+<!--
+* [Google JavaScript Styleguide](https://google.github.io/styleguide/javascriptguide.xml)
+
+JavaScript Styleguide  
+* [Airbnb JavaScript Styleguide GitHub](https://github.com/airbnb/javascript) 
+
+* [Bootstrap Lint GitHub](https://github.com/twbs/bootlint)
+* [Sass Lint](https://www.npmjs.com/package/sass-lint)
+
+Microsoft Developer Tools
+* [Microsoft Edge Developer Documentation](https://github.com/MicrosoftDocs/edge-developer)
+* ["Meet the Microsoft Edge F12 Dev Tools"](https://docs.microsoft.com/en-us/microsoft-edge/f12-devtools-guide)
+* [F12 Developer Tool Keyboard Shortcuts](https://msdn.microsoft.com/en-us/library/dn322041(v=vs.85).aspx)
+
+Safari Developer Tools
+* [Safari Web Inspector](https://developer.apple.com/library/safari/documentation/AppleApplications/Conceptual/Safari_Developer_Guide/Introduction/Introduction.html)
+
+Mozilla Developer Tools
+* [Firefox Developer Tools](https://developer.mozilla.org/en-US/docs/Tools) and [Firebug](http://getfirebug.com)
+* [Firebug Chrome](http://getfirebug.com/releases/lite/chrome) and [Firebug Chrome Store](https://chrome.google.com/webstore/detail/firebug-lite-for-google-c/bmagokdooijbeehmkpknfglimnifench)
+
+* Document Flow
+
+* Selector Grouping
+* [Cascade](https://developer.mozilla.org/en-US/docs/Web/CSS/Cascade)
+
+Adobe (See also Edge Code and Brackets)
+* [Adobe Creative Cloud](http://www.adobe.com/creativecloud) and [Adobe Creative Cloud Blog](https://blogs.adobe.com/creativecloud)
+* [Adobe Edge Web Fonts](https://edgewebfonts.adobe.com)
+
+https://github.com/adobe-fonts
+
+https://creative.adobe.com/plans
+
+https://blog.typekit.com/2017/05/02/hundreds-more-fonts-in-the-library-and-marketplace-1500-added-for-sync/
+https://typekit.com/fonts
+https://helpx.adobe.com/typekit/system-subscription-requirements.html
+http://www.adobe.com/creativecloud/catalog/desktop.html
+http://www.adobe.com/creativecloud/desktop-app.html
+
+* [Mood Board Wikipedia](https://en.wikipedia.org/wiki/Mood_board)
+
+Progressive Enhancement
+* [Progressive Enhancement Wikipedia](https://en.wikipedia.org/wiki/Progressive_enhancement)
+
+Responsive Design/Patterns
+
+Device Mockups and Specifications
+
+* [MaxCDN Bootstrap](http://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css)
+
+Font Stack
+* [Web Safe Fonts](https://en.wikipedia.org/wiki/Web_typography#Web-safe_fonts)
+* [Fallback Font Wikipedia](https://en.wikipedia.org/wiki/Fallback_font)
+
+Typical base is 16px
+https://medium.freecodecamp.com/how-to-choose-and-pair-typefaces-98fee945d13c#.c9d6lv6lj
+
+Em
+-->
+<!--
+http://jonibologna.com/flexbox-cheatsheet
+http://jonibologna.com/content/images/flexboxsheet.pdf
+-->
+
 <!--
 Mozilla Documentation
 * [Mozilla Developer](https://developer.mozilla.org/en-US), and [Mozilla Developer Docs](https://developer.mozilla.org/en-US/docs/Web) 
@@ -221,67 +280,6 @@ Mozilla JavaScript Tutorials
 
 * [Mozilla Document Object Model Reference](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model)
 -->
-
-jQuery
-* [jQuery](https://jquery.com) (version impacts browser support)
-
-GitHub HTML and CSS Styleguides
-* [GitHub CSS Styleguide](http://primercss.io) 
-* [MDO Code Guide](http://codeguide.co) and [MDO Code Guide GitHub](https://github.com/mdo/code-guide) 
-
-Google Styleguides
-* [Google Styleguides GitHub](https://github.com/google/styleguide)
-* [Google HTML and CSS Styleguide](https://google.github.io/styleguide/htmlcssguide.html)
-* [Google JavaScript Styleguide](https://google.github.io/styleguide/javascriptguide.xml)
-
-JavaScript Styleguide  
-* [Airbnb JavaScript Styleguide GitHub](https://github.com/airbnb/javascript) 
-
-Accessibility
-* [WebAim](http://webaim.org)
-
-Validation
-* [W3C Nu HTML Validator](https://validator.w3.org/nu)
-* Do Cross Browser Testing
-
-Lints
-* [CSS LINT](http://csslint.net)
-* [Bootstrap Lint GitHub](https://github.com/twbs/bootlint)
-* [Sass Lint](https://www.npmjs.com/package/sass-lint)
-
-Google Developers- General and Web
-* [Google Developers](https://developers.google.com) 
-* [Google Developer Web](https://developers.google.com/web)
-
-Google Developers- Google Chrome Doc
-* [Google Chrome Home](https://developers.google.com/chrome)
-* [Google Chrome DevTool Docs](https://developers.google.com/web/tools/chrome-devtools)
-* [Google Chrome DevTools (Old)](https://developer.chrome.com/devtools)
-
-Browser Statistics
-
-Safari Developer Tools
-* [Safari Web Inspector](https://developer.apple.com/library/safari/documentation/AppleApplications/Conceptual/Safari_Developer_Guide/Introduction/Introduction.html)
-
-Mozilla Developer Tools
-* [Firefox Developer Tools](https://developer.mozilla.org/en-US/docs/Tools) and [Firebug](http://getfirebug.com)
-* [Firebug Chrome](http://getfirebug.com/releases/lite/chrome) and [Firebug Chrome Store](https://chrome.google.com/webstore/detail/firebug-lite-for-google-c/bmagokdooijbeehmkpknfglimnifench)
-
-Microsoft Developer Tools
-* [Microsoft Edge Developer Documentation](https://github.com/MicrosoftDocs/edge-developer)
-* ["Meet the Microsoft Edge F12 Dev Tools"](https://docs.microsoft.com/en-us/microsoft-edge/f12-devtools-guide)
-* [F12 Developer Tool Keyboard Shortcuts](https://msdn.microsoft.com/en-us/library/dn322041(v=vs.85).aspx)
-
-
-
-
-Graph and Schema- General (See also Facebook Open Graph and W3C Semantic Extractor)
-* [Open Graph Protocol Schema](http://ogp.me) 
-* [Schema Org](http://schema.org), [Schema Org Getting Started](http://schema.org/docs/gs.html), and [Schema Org Wikipedia](http://en.wikipedia.org/wiki/Schema.org) 
-* [Schema Creator](http://schema-creator.org)
-
-Microformats
-* [Microformats](http://microformats.org)
 
 <!--
 Speed and Performance
