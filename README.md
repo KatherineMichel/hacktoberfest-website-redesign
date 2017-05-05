@@ -5,9 +5,11 @@ Table of Contents
 
 - [About The Website](#about-the-website)
 - [Useful Links](#useful-links)
+- [Website Design As Is](#website-design-as-is)
 - [New Design Details](#new-design-details)
     - [Palette](#palette)
     - [Hero Image](#hero-image)
+- [Resources Used for Redesign](#resources-used-for-redesign)
 
 <hr>
 
@@ -347,3 +349,5 @@ https://www.epilepsy.org.uk/info/photosensitive-epilepsy/web-design
 http://webaim.org/articles/seizure/
 https://www.w3.org/TR/UNDERSTANDING-WCAG20/seizure.html
 -->
+
+:top: <sub>[**back to top**](#table-of-contents)</sub>
