@@ -59,7 +59,7 @@ Other possibilities: Quirky, Fun, Quaint, Sophisticated
 
 @kentonh (Kenton Hansen) has suggested this as a possible t-shirt design
 
-![](static/images/stranger.png)
+![](readme-images/stranger.png)
 
 ### Font Pairing
 
