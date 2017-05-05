@@ -25,14 +25,7 @@
 
 ![](static/images/hero.jpg)
 
-Image used with permission from [Kim Støvring](https://www.flickr.com/photos/kimstovring/15486932228/in/dateposted) under [CC License](https://creativecommons.org/licenses/by/2.0)
-
-#### Hero Image Modification
-
-Silhouette of female will be cropped into house window
-![](readme-images/silhouettes-at-computer.png)
-
-Image used with permission from [pixabay](https://pixabay.com/p-949058) under [CC License](https://creativecommons.org/publicdomain/zero/1.0/deed.en)
+The main image was used with permission from [Kim Støvring](https://www.flickr.com/photos/kimstovring/15486932228/in/dateposted) under [CC License](https://creativecommons.org/licenses/by/2.0). A silhouette of a female was cropped into the house window. This image was used with permission from [pixabay](https://pixabay.com/p-949058) under [CC License](https://creativecommons.org/publicdomain/zero/1.0/deed.en).
 
 <!--
 
