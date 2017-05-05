@@ -28,6 +28,7 @@ Hero (Used with permission from [Kim Støvring](https://www.flickr.com/photos/ki
 
 #### Hero Image Modification
 
+Silhouette of female will be cropped into house window
 ![](readme-images/silhouettes-at-computer.png)
 
 <!--
