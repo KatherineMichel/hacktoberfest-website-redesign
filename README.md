@@ -58,7 +58,11 @@ Main: [Nosifer](https://fonts.google.com/specimen/Nosifer)
 
 Pairing
 
+:top: <sub>[**back to top**](#table-of-contents)</sub>
+
 ### Layout Mockups
+
+:top: <sub>[**back to top**](#table-of-contents)</sub>
 
 ## Resources Used for Redesign
 
