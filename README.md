@@ -28,6 +28,8 @@ Hero (Used with permission from [Kim Støvring](https://www.flickr.com/photos/ki
 
 #### Hero Image Modification
 
+![](readme-images/silhouettes-at-computer.png)
+
 <!--
 
 ### Quirky
