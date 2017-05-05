@@ -4,12 +4,11 @@ Table of Contents
 -----------------
 
 - [About The Website](#about-the-website)
-- [Useful Links](#useful-links)
-- [Website Design As Is](#website-design-as-is)
 - [New Design Details](#new-design-details)
     - [Palette](#palette)
     - [Hero Image](#hero-image)
 - [Resources Used for Redesign](#resources-used-for-redesign)
+- [Old Website Design](#old-website-design)
 
 <hr>
 
@@ -17,13 +16,14 @@ Table of Contents
 
 [Single Page Application](https://en.wikipedia.org/wiki/Single-page_application), made using [Golang](https://golang.org), deployed via [Docker](https://www.docker.com) and [Heroku](https://www.heroku.com)
 
-:top: <sub>[**back to top**](#table-of-contents)</sub>
-
-## Useful Links
-
+National Initiative
 * [Hacktoberfest](https://hacktoberfest.digitalocean.com)
+
+devICT Hacktoberfest Website and GitHub
 * [devICT Hacktoberfest](https://devict-hacktoberfest.herokuapp.com)
 * [devICT Hacktoberfest GitHub](https://github.com/devict/hacktoberfest)
+
+Local Server
 * [Local Server](http://localhost:8080)
 
 :top: <sub>[**back to top**](#table-of-contents)</sub>
