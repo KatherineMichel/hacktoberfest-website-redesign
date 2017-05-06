@@ -153,19 +153,17 @@ W3C (The World Wide Web Consortium) Standards
 
 
 
-
+<!--
 Responsiveness- and Media Queries
 * [Mozilla Developer Media Queries](https://developer.mozilla.org/en-US/docs/Web/Guide/CSS/Media_queries) and [Mozilla Developer Using Media Queries](https://developer.mozilla.org/en-US/docs/Web/CSS/Media_Queries/Using_media_queries)
 * [Google Developers Responsive Fundamentals- Use of Media Queries](https://developers.google.com/web/fundamentals/design-and-ui/responsive/fundamentals/use-media-queries?hl=en)
 * [Google Developers Responsive Fundamentals- How to Choose Breakpoints](https://developers.google.com/web/fundamentals/design-and-ui/responsive/fundamentals/how-to-choose-breakpoints?hl=en)
 
-<!--
 https://developers.google.com/web/fundamentals/design-and-ui/responsive/patterns
--->
 
 Google 
 * [Google Web Fundamentals](https://developers.google.com/web/fundamentals), [Google Web Fundamentals: GitHub](https://github.com/google/WebFundamentals), and [Google Web Fundamentals Research Study](https://developers.google.com/web/fundamentals/principles/research-study)  
-
+-->
 
 jQuery
 * [jQuery](https://jquery.com) (version impacts browser support)
@@ -190,7 +188,6 @@ Google Developers- General and Web
 * [Google Developer Web](https://developers.google.com/web)
 
 Google Developers- Google Chrome Doc
-* [Google Chrome Home](https://developers.google.com/chrome)
 * [Google Chrome DevTool Docs](https://developers.google.com/web/tools/chrome-devtools)
 * [Google Chrome DevTools (Old)](https://developer.chrome.com/devtools)
 
@@ -205,61 +202,27 @@ Microformats
 * [Microformats](http://microformats.org)
 
 <!--
-* [Eric A. Meyer CSS Reset](http://meyerweb.com/eric/tools/css/reset)
+Progressive Enhancement
+* [Progressive Enhancement Wikipedia](https://en.wikipedia.org/wiki/Progressive_enhancement)
 
 * [Modernizr](http://modernizr.com) and [Modernizr GitHub](https://github.com/Modernizr/Modernizr)  
 
 https://modernizr.com/download?setclasses
 
-* [Google JavaScript Styleguide](https://google.github.io/styleguide/javascriptguide.xml)
-
-JavaScript Styleguide  
-* [Airbnb JavaScript Styleguide GitHub](https://github.com/airbnb/javascript) 
-
-* [Bootstrap Lint GitHub](https://github.com/twbs/bootlint)
-* [Sass Lint](https://www.npmjs.com/package/sass-lint)
-
 Microsoft Developer Tools
-* [Microsoft Edge Developer Documentation](https://github.com/MicrosoftDocs/edge-developer)
-* ["Meet the Microsoft Edge F12 Dev Tools"](https://docs.microsoft.com/en-us/microsoft-edge/f12-devtools-guide)
-* [F12 Developer Tool Keyboard Shortcuts](https://msdn.microsoft.com/en-us/library/dn322041(v=vs.85).aspx)
-
 Safari Developer Tools
-* [Safari Web Inspector](https://developer.apple.com/library/safari/documentation/AppleApplications/Conceptual/Safari_Developer_Guide/Introduction/Introduction.html)
-
 Mozilla Developer Tools
-* [Firefox Developer Tools](https://developer.mozilla.org/en-US/docs/Tools) and [Firebug](http://getfirebug.com)
-* [Firebug Chrome](http://getfirebug.com/releases/lite/chrome) and [Firebug Chrome Store](https://chrome.google.com/webstore/detail/firebug-lite-for-google-c/bmagokdooijbeehmkpknfglimnifench)
 
 * Document Flow
 
 * Selector Grouping
 * [Cascade](https://developer.mozilla.org/en-US/docs/Web/CSS/Cascade)
 
-Adobe (See also Edge Code and Brackets)
-* [Adobe Creative Cloud](http://www.adobe.com/creativecloud) and [Adobe Creative Cloud Blog](https://blogs.adobe.com/creativecloud)
-* [Adobe Edge Web Fonts](https://edgewebfonts.adobe.com)
-
-https://github.com/adobe-fonts
-
-https://creative.adobe.com/plans
-
-https://blog.typekit.com/2017/05/02/hundreds-more-fonts-in-the-library-and-marketplace-1500-added-for-sync/
-https://typekit.com/fonts
-https://helpx.adobe.com/typekit/system-subscription-requirements.html
-http://www.adobe.com/creativecloud/catalog/desktop.html
-http://www.adobe.com/creativecloud/desktop-app.html
-
 * [Mood Board Wikipedia](https://en.wikipedia.org/wiki/Mood_board)
-
-Progressive Enhancement
-* [Progressive Enhancement Wikipedia](https://en.wikipedia.org/wiki/Progressive_enhancement)
 
 Responsive Design/Patterns
 
 Device Mockups and Specifications
-
-* [MaxCDN Bootstrap](http://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css)
 
 Font Stack
 * [Web Safe Fonts](https://en.wikipedia.org/wiki/Web_typography#Web-safe_fonts)
@@ -273,17 +236,6 @@ Em
 <!--
 http://jonibologna.com/flexbox-cheatsheet
 http://jonibologna.com/content/images/flexboxsheet.pdf
--->
-
-<!--
-Mozilla JavaScript Tutorials
-* [Mozilla JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  
-* [Mozilla JavaScript Guide](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide) 
-* [Mozilla JavaScript Reference](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference)  
-* [Mozilla Web API](https://developer.mozilla.org/en-US/docs/Web/API)
-* [A Re-introduction to JS](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript)
-
-* [Mozilla Document Object Model Reference](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model)
 -->
 
 <!--
