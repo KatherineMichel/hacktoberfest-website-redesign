@@ -151,8 +151,6 @@ W3C (The World Wide Web Consortium) Standards
 * [W3C HTML5](https://www.w3.org/TR/html5)
 * [W3C Developer Tools](http://w3c.github.io/developers/tools)
 
-
-
 <!--
 Responsiveness- and Media Queries
 * [Mozilla Developer Media Queries](https://developer.mozilla.org/en-US/docs/Web/Guide/CSS/Media_queries) and [Mozilla Developer Using Media Queries](https://developer.mozilla.org/en-US/docs/Web/CSS/Media_Queries/Using_media_queries)
@@ -163,6 +161,10 @@ https://developers.google.com/web/fundamentals/design-and-ui/responsive/patterns
 
 Google 
 * [Google Web Fundamentals](https://developers.google.com/web/fundamentals), [Google Web Fundamentals: GitHub](https://github.com/google/WebFundamentals), and [Google Web Fundamentals Research Study](https://developers.google.com/web/fundamentals/principles/research-study)  
+
+Google Developers- General and Web
+* [Google Developers](https://developers.google.com) 
+* [Google Developer Web](https://developers.google.com/web)
 -->
 
 jQuery
@@ -183,11 +185,8 @@ Validation
 Lints
 * [CSS LINT](http://csslint.net)
 
-Google Developers- General and Web
-* [Google Developers](https://developers.google.com) 
+Google Developers
 * [Google Developer Web](https://developers.google.com/web)
-
-Google Developers- Google Chrome Doc
 * [Google Chrome DevTool Docs](https://developers.google.com/web/tools/chrome-devtools)
 * [Google Chrome DevTools (Old)](https://developer.chrome.com/devtools)
 
@@ -209,12 +208,7 @@ Progressive Enhancement
 
 https://modernizr.com/download?setclasses
 
-Microsoft Developer Tools
-Safari Developer Tools
-Mozilla Developer Tools
-
 * Document Flow
-
 * Selector Grouping
 * [Cascade](https://developer.mozilla.org/en-US/docs/Web/CSS/Cascade)
 
