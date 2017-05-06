@@ -147,14 +147,11 @@ WHATWG (Better Reference than W3C)
 
 W3C (The World Wide Web Consortium) Standards
 * [W3C HTML](https://www.w3.org/html)
+* [W3C HTML4 Elements](https://www.w3.org/TR/html4/index/elements.html)
 * [W3C HTML5](https://www.w3.org/TR/html5)
 * [W3C Developer Tools](http://w3c.github.io/developers/tools)
 
-<!--
-New
-https://www.w3.org/TR/html4/index/elements.html
-https://www.w3.org/TR/html5/
--->
+
 
 
 Responsiveness- and Media Queries
