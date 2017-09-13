@@ -5,11 +5,13 @@ Table of Contents
 
 - [About The Website](#about-the-website)
 - [New Design Details](#new-design-details)
+    - [Logo](#logo)
     - [Palette](#palette)
-    - [Hero Image](#hero-image)
-    - [T-shirt, Sticker, Site Design](#t-shirt-sticker-site-design)
+    - [T-shirt, Stickers, Etc.](#t-shirt-stickers-etc)
+<!--
     - [Font Pairing](#font-pairing)
 - [Resources Used for Redesign](#resources-used-for-redesign)
+-->
 - [Old Website Design](#old-website-design)
 
 <hr>
@@ -30,7 +32,7 @@ Local Server
 
 :top: <sub>[**back to top**](#table-of-contents)</sub>
 
-## September 2017
+## New Design Details
 
 ### Logo
 
@@ -53,6 +55,8 @@ Local Server
 ### Layout Mockups
 
 :top: <sub>[**back to top**](#table-of-contents)</sub>
+
+### T-shirt, Stickers, Etc. 
 
 ## Resources Used for Redesign
 
