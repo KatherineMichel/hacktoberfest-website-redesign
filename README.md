@@ -30,6 +30,28 @@ Local Server
 
 :top: <sub>[**back to top**](#table-of-contents)</sub>
 
+## September 2017
+
+### Logo
+
+### Palettes
+
+```bash
+#56200F 
+#EF7E5A 
+#A3492D 
+#075642 
+#2DA385
+```
+
+```bash
+#D68326 
+#3D3429 
+#A3492D 
+#5CAE82 
+#26D645 
+```
+
 ## New Design Details
 
 This is one of several possible designs. 
