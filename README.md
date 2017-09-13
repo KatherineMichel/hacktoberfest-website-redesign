@@ -40,6 +40,8 @@ Local Server
 
 ### Palettes
 
+* [Color Palette 1](https://color.adobe.com/create/color-wheel/?base=2&rule=Complementary&selected=2&name=My%20Color%20Theme&mode=rgb&rgbvalues=0.33921568627450976,0.12604629873160839,0.05972693371827261,0.9392156862745098,0.49226543274061485,0.3532142427523157,0.6392156862745098,0.28627450980392155,0.17647058823529413,0.025805365090821604,0.33921568627450976,0.25883350604115807,0.17647058823529416,0.6392156862745098,0.5205327413982701&swatchOrder=0,1,2,3,4)
+
 ```bash
 #56200F 
 #EF7E5A 
@@ -55,6 +57,8 @@ Local Server
 #5CAE82 
 #26D645 
 ```
+
+:top: <sub>[**back to top**](#table-of-contents)</sub>
 
 ## New Design Details
 
