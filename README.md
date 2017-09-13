@@ -34,6 +34,10 @@ Local Server
 
 ### Logo
 
+![](readme-images/KEN_Hacktoberfest_Production_2017_transparent.jpg)
+
+:top: <sub>[**back to top**](#table-of-contents)</sub>
+
 ### Palettes
 
 ```bash
