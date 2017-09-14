@@ -34,6 +34,20 @@ Local Server
 
 ## New Design Details
 
+<!--
+https://github.com/devict/hacktoberfest | devict/hacktoberfest: Our own little local version of hacktoberfest
+https://www.dropbox.com/s/qzvrmjrgfxae6jj/KEN_Hacktoberfest_Production.ai?dl=0 | KEN_Hacktoberfest_Production.ai
+https://www.dropbox.com/sh/ieoz48ksqyyfjtf/AACaglrTGBdCIfCLuIU9mZQoa?dl=0&preview=KEN_Hacktoberfest_Production_2017_transparent.jpg | KEN_Hacktoberfest_Production_2017_transparent.jpg
+
+https://dribbble.com/dangerdom
+https://twitter.com/Dangerdom
+
+http://fontawesome.io/icon/laptop/ | fa-laptop: Font Awesome Icons
+http://fontawesome.io/icon/shield/ | fa-shield: Font Awesome Icons
+http://fontawesome.io/icon/beer/ | fa-beer: Font Awesome Icons
+http://fontawesome.io/icon/leaf/ | fa-leaf: Font Awesome Icons
+-->
+
 ### Logo
 
 ![](readme-images/KEN_Hacktoberfest_Production_2017_transparent.jpg)
