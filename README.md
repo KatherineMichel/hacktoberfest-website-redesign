@@ -34,21 +34,16 @@ Local Server
 
 ## New Design Details
 
+### Logo
+
+The logo was created by [Dominic Flask](http://www.dangerdom.com) and was inspired by Octoberfest.
+
 <!--
-https://github.com/devict/hacktoberfest | devict/hacktoberfest: Our own little local version of hacktoberfest
+https://dribbble.com/dangerdom
+
 https://www.dropbox.com/s/qzvrmjrgfxae6jj/KEN_Hacktoberfest_Production.ai?dl=0 | KEN_Hacktoberfest_Production.ai
 https://www.dropbox.com/sh/ieoz48ksqyyfjtf/AACaglrTGBdCIfCLuIU9mZQoa?dl=0&preview=KEN_Hacktoberfest_Production_2017_transparent.jpg | KEN_Hacktoberfest_Production_2017_transparent.jpg
-
-https://dribbble.com/dangerdom
-https://twitter.com/Dangerdom
-
-http://fontawesome.io/icon/laptop/ | fa-laptop: Font Awesome Icons
-http://fontawesome.io/icon/shield/ | fa-shield: Font Awesome Icons
-http://fontawesome.io/icon/beer/ | fa-beer: Font Awesome Icons
-http://fontawesome.io/icon/leaf/ | fa-leaf: Font Awesome Icons
 -->
-
-### Logo
 
 ![](readme-images/KEN_Hacktoberfest_Production_2017_transparent.jpg)
 
@@ -56,9 +51,13 @@ http://fontawesome.io/icon/leaf/ | fa-leaf: Font Awesome Icons
 
 ### Palettes
 
+#### Chosen Color Palette
+
 [Color Palette 1](https://color.adobe.com/create/color-wheel/?base=2&rule=Complementary&selected=2&name=My%20Color%20Theme&mode=rgb&rgbvalues=0.33921568627450976,0.12604629873160839,0.05972693371827261,0.9392156862745098,0.49226543274061485,0.3532142427523157,0.6392156862745098,0.28627450980392155,0.17647058823529413,0.025805365090821604,0.33921568627450976,0.25883350604115807,0.17647058823529416,0.6392156862745098,0.5205327413982701&swatchOrder=0,1,2,3,4) (#56200F, #EF7E5A, #A3492D, #075642, #2DA385)
 
 ![](readme-images/color-palette-1.png)
+
+#### Alternative Color Palette
 
 [Color Palette 2](https://color.adobe.com/create/color-wheel/?base=2&rule=Compound&selected=4&name=My%20Color%20Theme&mode=rgb&rgbvalues=0.8392156862745097,0.5135105691785002,0.14776374353422356,0.23921568627450973,0.20271520815874064,0.16172741489233727,0.6392156862745098,0.28627450980392155,0.17647058823529413,0.35999939853241913,0.6843137254901961,0.5093478573808556,0.14776374353422356,0.8392156862745097,0.2704870656388267&swatchOrder=0,1,2,3,4) (#D68326, #3D3429, #A3492D, #5CAE82, #26D645)
 
@@ -66,11 +65,20 @@ http://fontawesome.io/icon/leaf/ | fa-leaf: Font Awesome Icons
 
 :top: <sub>[**back to top**](#table-of-contents)</sub>
 
+<!--
+http://fontawesome.io/icon/laptop/ | fa-laptop: Font Awesome Icons
+http://fontawesome.io/icon/shield/ | fa-shield: Font Awesome Icons
+http://fontawesome.io/icon/beer/ | fa-beer: Font Awesome Icons
+http://fontawesome.io/icon/leaf/ | fa-leaf: Font Awesome Icons
+-->
+
 ### Layout Mockups
 
 :top: <sub>[**back to top**](#table-of-contents)</sub>
 
 ### T-shirt, Stickers, Etc. 
+
+:top: <sub>[**back to top**](#table-of-contents)</sub>
 
 ## Resources Used for Redesign
 
