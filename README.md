@@ -74,17 +74,16 @@ http://fontawesome.io/icon/leaf/ | fa-leaf: Font Awesome Icons
 
 ## Resources Used for Redesign
 
-Design
-* [Style Tiles](http://styletil.es)
-* Design Sprint
-
 <!--
 http://www.gv.com/sprint
 https://designsprintkit.withgoogle.com
 https://developers.google.com/design-sprint
 https://github.com/thoughtbot/design-sprint
 https://en.wikipedia.org/wiki/Design_sprint
--->
+
+Design
+* [Style Tiles](http://styletil.es)
+* Design Sprint
 
 Protyping
 * [Keynotopia](http://keynotopia.com)
@@ -106,11 +105,9 @@ Semantic Site Audit
 Document Outline
 * [HTML Outline](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/Using_HTML_sections_and_outlines) (HTML5 versus HTML4)
 
-<!--
 HTML5 Outliner
 https://chrome.google.com/webstore/detail/html5-outliner/afoibpobokebhgfnknfndkgemglggomo?hl=en
 https://addons.mozilla.org/en-US/firefox/addon/html5_outliner/
--->
 
 Hosted Libraries
 * [Google Libraries](https://developers.google.com/speed/libraries)
@@ -150,7 +147,7 @@ W3C (The World Wide Web Consortium) Standards
 * [W3C HTML5](https://www.w3.org/TR/html5)
 * [W3C Developer Tools](http://w3c.github.io/developers/tools)
 
-<!--
+
 Responsiveness- and Media Queries
 * [Mozilla Developer Media Queries](https://developer.mozilla.org/en-US/docs/Web/Guide/CSS/Media_queries) and [Mozilla Developer Using Media Queries](https://developer.mozilla.org/en-US/docs/Web/CSS/Media_Queries/Using_media_queries)
 * [Google Developers Responsive Fundamentals- Use of Media Queries](https://developers.google.com/web/fundamentals/design-and-ui/responsive/fundamentals/use-media-queries?hl=en)
@@ -164,7 +161,7 @@ Google
 Google Developers- General and Web
 * [Google Developers](https://developers.google.com) 
 * [Google Developer Web](https://developers.google.com/web)
--->
+
 
 jQuery
 * [jQuery](https://jquery.com) (version impacts browser support)
@@ -199,7 +196,7 @@ Graph and Schema- General (See also Facebook Open Graph and W3C Semantic Extract
 Microformats
 * [Microformats](http://microformats.org)
 
-<!--
+
 Progressive Enhancement
 * [Progressive Enhancement Wikipedia](https://en.wikipedia.org/wiki/Progressive_enhancement)
 
@@ -225,13 +222,12 @@ Typical base is 16px
 https://medium.freecodecamp.com/how-to-choose-and-pair-typefaces-98fee945d13c#.c9d6lv6lj
 
 Em
--->
-<!--
+
+
 http://jonibologna.com/flexbox-cheatsheet
 http://jonibologna.com/content/images/flexboxsheet.pdf
--->
 
-<!--
+
 Speed and Performance
 * [Google GWT (including Speedtracer)](http://www.gwtproject.org)
 * [Google PageSpeed (Score of 90+)](https://developers.google.com/speed/pagespeed)
