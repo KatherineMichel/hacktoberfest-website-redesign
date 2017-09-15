@@ -1,57 +1,230 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>Title</title>
-  <link href="css/normalize.css" rel="stylesheet">
-  <link href="css/main.css" rel="stylesheet">
-</head>
-<body>
-  <div class="container">
-   <header>
-      <a href="index.html" class="logo" ><img src="images/logo.png" alt="logo"></a>
-      <nav class="main-navigation">
-        <ul>
-          <li><a href="index.html">Home</a></li>
-          <li><a href="about.html">About</a></li>
-        </ul>
-      </nav>
+
+  <head>
+
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="devICT Hacktoberfest Website">
+    <meta name="author" content="">
+
+    <title>devICT Hacktoberfest!</title>
+
+    <!-- Bootstrap and Font Awesome CSS -->
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+    <link href="css/font-awesome.min.css" rel="stylesheet">
+
+    <!-- Custom CSS -->
+    <link href="css/hacktoberfest.css" rel="stylesheet">      
+     
+    <!-- Google Fonts -->
+    <link href='https://fonts.googleapis.com/css?family=Merriweather:400,300,300italic,400italic,700,700italic,900,900italic' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800' rel='stylesheet' type='text/css'>
+  
+  </head>
+
+  <body id="#">
+
+    <nav class="navbar navbar-expand-lg navbar-light fixed-top" id="mainNav">
+      <div class="container">
+        <a class="navbar-brand js-scroll-trigger" href="#">devICT Hacktoberfest</a>
+        <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarResponsive">
+          <ul class="navbar-nav ml-auto">
+            <li class="nav-item">
+              <a class="nav-link js-scroll-trigger" href="#about">About</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link js-scroll-trigger" href="#get-started">Get Started</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link js-scroll-trigger" href="#projects">Projects</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link js-scroll-trigger" href="#sponsors">Sponsors</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link js-scroll-trigger" href="#lets-do-this">Let's Do This!</a>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </nav>
+
+    <header class="header">
+      <div class="header-content">
+        <div class="header-content-inner">
+          <!--
+          <h1></h1>
+          <hr>
+          <p></p>
+          -->
+        </div>
+      </div>
     </header>
-    <div class="landing">
-      <h1>h1</h1>
-      <h2>h2</h2>
-      <p>Paragraph</p>
+      
+    <section class="section-dark" id="about">
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-10 mx-auto text-center">
+            <h2 class="section-heading text-white">About</h2>
+            <hr class="light">
+            <p class="text">This is a blatant attempt to piggyback off the popularity of the global <a class="dark" href="https://hacktoberfest.digitalocean.com" target="_blank">Hacktoberfest event</a> from Digital Ocean and GitHub. Submit four pull requests to qualifying devICT projects during the month of October and receive a t-shirt!</p>
+            <a class="btn btn-dark sr-button" href="#get-started">Learn More</a>
+          </div>
+        </div>
+      </div>
+    </section>
+            
+    <section id="get-started">
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-12 text-center">
+            <h2 class="section-heading">Getting Started</h2>
+            <hr class="dark">
+          </div>
+        </div>
+      </div>
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-3 col-md-6 text-center">
+            <div class="getting-started-box">
+              <i class="fa fa-4x fa-shield icon-dark sr-icons"></i>
+              <h3>Pick an Issue</h3>
+              <p>Look through the project issues and choose one or suggest a change!</p> 
+            </div>
+          </div>
+          <div class="col-lg-3 col-md-6 text-center">
+            <div class="getting-started-box">
+              <i class="fa fa-4x fa-laptop icon-dark sr-icons"></i>
+              <h3>Make an Improvement</h3>
+              <p>Use Git and GitHub to make your change. See <a href="https://github.com/KatherineMichel/get-a-jumpstart-on-collaboration-and-code-review-in-gitHub-devict-hacktoberfest/blob/master/README.md" target="_blank">Kati Michel's helpful tutorial</a>, if needed.</p>
+            </div>
+          </div>
+          <div class="col-lg-3 col-md-6 text-center">
+            <div class="getting-started-box">
+              <i class="fa fa-4x fa-leaf icon-dark sr-icons"></i>
+              <h3>Submit a Pull Request</h3>
+              <p>Submit a pull request with your proposed change.</p>
+            </div>
+          </div>
+          <div class="col-lg-3 col-md-6 text-center">
+            <div class="getting-started-box">
+              <i class="fa fa-4x fa-beer icon-dark sr-icons"></i>
+              <h3>Enjoy Your T-Shirt</h3>
+              <p>After four pull requests, you are eligible to receive a free t-shirt!</p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+      
+    <div class="call-to-action section-dark" id="projects">
+      <div class="container text-center">
+        <h2 class="section-heading text-white">Qualifying Projects</h2>
+        <hr class="light">
+        <p class="text">We will count pull requests opened against any of the Wichita developer community organizations listed below, including the <a class="dark" href="https://github.com/devict/hacktoberfest" target="_blank">repo for this site</a>! We will also count pull requests opened against the individual project <a class="dark" href="https://github.com/imacrayon/foodtrucksnear.me" target="_blank">foodtrucksnear.me</a>. Would you like your organization or project to show up on these lists? Just let us know! File an issue against this site's repo or maybe make a pull request.</p>
+      </div>
+    </div>      
+       
+     <div class="row no-gutters">
+      <div class="col-md-4">
+        <div class="thumbnail">
+          <a href="https://github.com/devict" target="_blank">
+            <img src="images/logos/devict.png" alt="devICT" style="width:100%">
+          </a>
+        </div>
+      </div>
+      <div class="col-md-4">
+        <div class="thumbnail">
+          <a href="https://github.com/Ennovar" target="_blank">
+            <img src="images/logos/ennovar.png" alt="Labor Party" style="width:100%">
+          </a>
+        </div>
+      </div>
+      <div class="col-md-4">
+        <div class="thumbnail">
+          <a href="https://github.com/makeict" target="_blank">
+            <img src="images/logos/makeict.png" alt="makeICT" style="width:100%">
+          </a>
+        </div>
+      </div>
+      <div class="col-md-4">
+        <div class="thumbnail">
+          <a href="https://github.com/openwichita" target="_blank">
+            <img src="images/logos/open-wichita.png" alt="Open Wichita" style="width:100%">
+          </a>
+        </div>
+      </div>
+      <div class="col-md-4">
+        <div class="thumbnail">
+          <a href="https://github.com/wichitalks" target="_blank">
+            <img src="images/logos/wichitalks.png" alt="Wichitalks" style="width:100%">
+          </a>
+        </div>
+      </div>
+      <div class="col-md-4">
+        <div class="thumbnail">
+          <a href="https://github.com/StartupWichita" target="_blank">
+            <img src="images/logos/startup-wichita.png" alt="Startup Wichita" style="width:100%">
+          </a>
+        </div>
+      </div>
     </div>
+            
+    <div class="call-to-action section-dark" id="sponsors">
+      <div class="container text-center">
+        <h2 class="section-heading text-white">Sponsors</h2>
+        <hr class="light">
+        <p class="text">devICT Hacktoberfest is a partnership between <a class="dark" href="https://github.com/devict" target="_blank">devICT</a>, <a class="dark" href="https://github.com/Ennovar" target="_blank">Ennovar</a>, and <a class="dark" href="http://labor-party.com" target="_blank">The Labor Party</a>.</p>
+      </div>
+    </div>      
+      
+     <div class="row project no-gutters">
+      <div class="col-md-4">
+        <div class="thumbnail">
+          <a href="https://github.com/devict" target="_blank">
+            <img src="images/logos/devict.png" alt="devICT" style="width:100%">
+          </a>
+        </div>
+      </div>
+      <div class="col-md-4">
+        <div class="thumbnail">
+          <a href="https://github.com/Ennovar" target="_blank">
+            <img src="images/logos/ennovar.png" alt="Ennovar" style="width:100%">
+          </a>
+        </div>
+      </div>
+      <div class="col-md-4">
+        <div class="thumbnail">
+          <a href="http://labor-party.com" target="_blank">
+            <img src="images/logos/labor-party.png" alt="Labor Party" style="width:100%">
+          </a>
+        </div>
+      </div>
+    </div>      
+              
+    <div class="call-to-action section-dark" id="lets-do-this">
+      <div class="container text-center">
+        <h2 class="section-heading text-white">Let's Do This!</h2>
+        <a class="btn btn-dark sr-button" href="http:// ">Sign Up with GitHub</a>
+      </div>
+    </div> 
+    
+    <!-- Core JavaScript -->
+    <script src="js/jquery/jquery.min.js"></script>
+    <script src="js/popper/popper.min.js"></script>
+    <script src="js/bootstrap.min.js"></script>
 
-    <div class="featured-info">
-      <h3>h3</h3>
-      <p>Paragraph</p>
+    <!-- Plugin JavaScript -->
+    <script src="js/jquery-easing/jquery.easing.js"></script>
+    <script src="js/scrollreveal/scrollreveal.min.js"></script>
 
-      <p class="button"><a href="file.html">Button Text</a></p>
-    </div>
+    <!-- Custom JavaScript -->
+    <script src="js/hacktoberfest.js"></script>
 
-    <div class="featured-info">
-      <h3>h3</h3>
-      <p>Paragraph</p>
+  </body>
 
-      <p  class="button"><a href="file.html">Button Text</a></p>
-    </div>
-
-    <div class="featured-info">
-      <h3>h3</h3>
-      <ul>
-        <li>Line</li>
-        <li>Line</li>
-        <li>Line</li>
-      </ul>
-    </div>
-
-    <footer>
-      <h4>h4</h4>
-
-      <p>Paragraph</p>
-      <p>Paragraph</p>
-    </footer>
-  </div>
-</body>
 </html>
